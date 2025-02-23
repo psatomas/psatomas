@@ -27,8 +27,8 @@ class Programmer
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <h4 align="left">High Skill:</h4>
-        <a href="https://stackshare.io/ruby" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="oracle" width="40" height="40" /></a>
-        <a href="https://stackshare.io/rails" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="oracle" width="40" height="40" /></a>
+        <a href="https://stackshare.io/python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="oracle" width="40" height="40" /></a>
+        <a href="https://stackshare.io/django" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="oracle" width="40" height="40" /></a>
         <a href="https://stackshare.io/react" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" /></a>
         <a href="https://stackshare.io/html5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
         <a href="https://stackshare.io/css-3" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></a>
