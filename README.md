@@ -1,9 +1,9 @@
 # Hello, I'm Tomás Araújo
 
-```ruby 
-class Programmer
+```rust 
+fn main() {
 
-	def initialize() 
+}
 ```
 
 <p align="left">
