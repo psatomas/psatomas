@@ -1,48 +1,72 @@
-# Hello, I'm Tomás Araújo
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=header&reversal=false&animation=twinkling)
 
-```rust 
-fn main() {
-
-}
-```
-
-<p align="left">
-    <h3 align="left">Connect with me:</h3>
-    <a href="https://linkedin.com/in/psatomas" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="psatomas" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/@tomaspsaraujo" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true" alt="tomaspsaraujo" height="30" width="40"/></a>
-    <a href="https://t.me/tomaspsa" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/telegram.png?raw=true" alt="tomaspsa" height="30" width="40"/></a>
-    <a href="https://www.instagram.com/psatomas" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="psatomas" height="30" width="40"/></a>
-    <a href="https://fb.com/tomaspsaraujo" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/facebook.png?raw=true" alt="tomaspsaraujo" height="30" width="40" /></a>    
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1000&color=0:0f2027&lines=Hey+there!+Tomás+Araújo+here;Backend+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ---
 
+<h3 align="center">
+🖥️ Backend Developer | 🐍 Python | 🌐 Django | ⚡ FastAPI | 🦀 Rust | 🗄️ SQL | 🐳 Docker | 🐧 Linux
+</h3>
+
+```python 
+def life():
+    while alive:
+        code()
+```
+
+
+
+
+
+## 👨‍💻 About Me  
+
+<img src="./assets/programmer.png" alt="Programmer Illustration" width="350" align="right">
+
+- 🎯 Aspiring **Backend Developer**, focused on building reliable and scalable applications.  
+- 🐍 Strong interest in **Python** and the **Django** framework.  
+- ⚙️ Learning and experimenting with **Rust** for systems programming and blockchain development.  
+- 🗄️ Experience working with **PostgreSQL** databases.  
+- 🐧 Comfortable with **Linux** and using **Git/GitHub** for version control.  
+- 📦 Exploring **Docker** to improve deployment workflows.  
+- 🌱 Learning more about scalable backend solutions, database optimization, and deployment automation.
+
+## Contact Info:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tomaspsa)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+558196914490)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomaspsaraujo@gmail.com)
+
+## Languages and Tools
+
+### Proficient With
+[![Proficient With](https://skillicons.dev/icons?i=python,django,fastapi,rust,postgresql,docker,linux,git,github,vscode)](https://github.com/psatomas)
+
+### Familiar With
+[![Familiar With](https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,javascript)](https://github.com/psatomas)
+
+
+
+## ⭐️ &nbsp;GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=psatomas&show_icons=true&theme=react&hide_border=false&count_private=true&bg_color=0f2027&title_color=1f7fff&text_color=ffffff&icon_color=00ffea&border_radius=15" height="200px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatomas&layout=compact&theme=react&hide_border=false&bg_color=0f2027&title_color=1f7fff&text_color=ffffff&border_radius=15" height="200px"/>
+    </td>
+  </tr>
+</table>
+
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psatomas&bg_color=0d1117&color=1f7fff&line=00ffea&point=00ffea&area=true&area_color=00ffea&hide_border=true)](https://github.com/psatomas)
+
+<p align="center"><img src="https://wakatime.com/badge/user/1365cb87-1cc0-4564-b486-b45888a5bbe3.svg" /></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=psatomas" alt="psatomas" /> </p>
 
- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=psatomas" width="70%" height="200px" />
- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatomas" width="70%" height="200px" />
 
 
-
-<h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-        <h4 align="left">High Skill:</h4>
-        <a href="https://stackshare.io/python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="oracle" width="40" height="40" /></a>
-        <a href="https://stackshare.io/django" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="oracle" width="40" height="40" /></a>
-        <a href="https://stackshare.io/react" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" /></a>
-        <a href="https://stackshare.io/html5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
-        <a href="https://stackshare.io/css-3" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></a>
-        <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
-        <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
-        <h4 align="left">Medium Skill:</h4>
-        <a href="https://stackshare.io/javascript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="postgresql" width="40" height="40" /></a>
-        <a href="https://stackshare.io/typescript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="aws" width="40" height="40" /></a>
-        <a href="https://stackshare.io/bootstrap" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="laravel" width="40" height="40" /></a>
-        <a href="https://stackshare.io/sass" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="javascript" width="40" height="40" /></a>
-        <h4 align="left">Low Skill:</h4>
-        <a href="https://stackshare.io/companies/next" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="docker" width="40" height="40" /></a>
-        <a href="https://stackshare.io/tailwind" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="vuejs" width="40" height="40" /></a>
-    </p>
-<figure>
-	<embed src="https://wakatime.com/share/@marcodotcastro/7cd3cbfb-1783-43d5-9708-4d309157fe7a.svg"></embed></figure>
-
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=footer&reversal=false&animation=twinkling)
