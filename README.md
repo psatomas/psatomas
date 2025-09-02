@@ -14,10 +14,6 @@ def life():
         code()
 ```
 
-
-
-
-
 ## 👨‍💻 About Me  
 
 <img src="./assets/programmer.png" alt="Programmer Illustration" width="350" align="right">
@@ -44,8 +40,6 @@ def life():
 ### Familiar With
 [![Familiar With](https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,javascript)](https://github.com/psatomas)
 
-
-
 ## ⭐️ &nbsp;GitHub Stats
 
 <table align="center">
@@ -59,14 +53,10 @@ def life():
   </tr>
 </table>
 
-
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psatomas&bg_color=0d1117&color=1f7fff&line=00ffea&point=00ffea&area=true&area_color=00ffea&hide_border=true)](https://github.com/psatomas)
 
 <p align="center"><img src="https://wakatime.com/badge/user/1365cb87-1cc0-4564-b486-b45888a5bbe3.svg" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=psatomas" alt="psatomas" /> </p>
-
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=footer&reversal=false&animation=twinkling)
