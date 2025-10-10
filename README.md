@@ -34,11 +34,11 @@ def life():
 
 ## Languages and Tools
 
-### Proficient With
-[![Proficient With](https://skillicons.dev/icons?i=python,django,fastapi,rust,postgresql,docker,linux,git,github,vscode)](https://github.com/psatomas)
+### Focus On
+[![Proficient With](https://skillicons.dev/icons?i=python,django,fastapi,rust,solidity,postgresql,docker,postman,linux,git,github,vscode)](https://github.com/psatomas)
 
-### Familiar With
-[![Familiar With](https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,javascript)](https://github.com/psatomas)
+### Basics Of
+[![Familiar With](https://skillicons.dev/icons?i=react,vite,nextjs,typescript,html,css,javascript)](https://github.com/psatomas)
 
 ## ⭐️ &nbsp;GitHub Stats
 
