@@ -5,7 +5,7 @@
 ---
 
 <h3 align="center">
-🖥️ Backend Developer | 🐍 Python | 🌐 Django | ⚡ FastAPI | 🦀 Rust | 🗄️ SQL | 🐳 Docker | 🐧 Linux
+🖥️ Backend Developer | 🐍 Python | 🌐 Django | ⚡ FastAPI | 🦀 Rust | ⟠ Solidity | 🗄️ SQL | 🐳 Docker | 🐧 Linux
 </h3>
 
 ```python 
@@ -20,7 +20,7 @@ def life():
 
 - 🎯 Aspiring **Backend Developer**, focused on building reliable and scalable applications.  
 - 🐍 Strong interest in **Python** and the **Django** framework.  
-- ⚙️ Learning and experimenting with **Rust** for systems programming and blockchain development.  
+- ⚙️ Learning and experimenting with **Rust** and **Solidity** for systems programming and blockchain development.  
 - 🗄️ Experience working with **PostgreSQL** databases.  
 - 🐧 Comfortable with **Linux** and using **Git/GitHub** for version control.  
 - 📦 Exploring **Docker** to improve deployment workflows.  
