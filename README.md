@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=header&reversal=false&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1000&color=0:0f2027&lines=Hey+there!+Tomás+Araújo+here;Backend+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1000&color=0:0f2027&lines=Hey+there!+Tomás+Araújo+here;Backend+Developer;Exploring+Blockchain+and+Web3;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 
 ---
 
 <h3 align="center">
-🖥️ Backend Developer | 🐍 Python | 🌐 Django | ⚡ FastAPI | 🦀 Rust | ⟠ Solidity | 🗄️ SQL | 🐳 Docker | 🐧 Linux
+🖥️ Backend Developer | 🐍 Python | 🌐 Django | ⚡ FastAPI | 🦀 Rust | ⟠ Solidity | 🗄️ SQL | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux
 </h3>
 
 ```python 
@@ -35,7 +36,7 @@ def life():
 ## Languages and Tools
 
 ### Focus On
-[![Proficient With](https://skillicons.dev/icons?i=python,django,fastapi,rust,solidity,postgresql,docker,postman,linux,git,github,vscode)](https://github.com/psatomas)
+[![Proficient With](https://skillicons.dev/icons?i=python,django,fastapi,rust,solidity,postgresql,docker,kubernetes,postman,linux,git,github,vscode)](https://github.com/psatomas)
 
 ### Basics Of
 [![Familiar With](https://skillicons.dev/icons?i=react,vite,nextjs,typescript,html,css,javascript)](https://github.com/psatomas)
