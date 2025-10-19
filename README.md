@@ -39,10 +39,10 @@ def life():
 [![Proficient With](https://skillicons.dev/icons?i=python,django,fastapi,rust,solidity,postgresql)](https://github.com/psatomas)
 
 ### Basics Of
-[![Familiar With](https://skillicons.dev/icons?i=react,vite,nextjs,typescript,html,css,javascript)](https://github.com/psatomas)
+[![Familiar With](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite)](https://github.com/psatomas)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,postman,gitlab,git,github,vscode,linux)](https://github.com/psatomas)
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,gitlab,github,npm,postman,vscode,linux)](https://github.com/psatomas)
 
 ## ⭐️ &nbsp;GitHub Stats
 
