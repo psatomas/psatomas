@@ -42,7 +42,7 @@ def life():
 [![Familiar With](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,vite)](https://github.com/psatomas)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,gitlab,github,npm,yarn,postman,vscode,linux)](https://github.com/psatomas)
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,github,npm,yarn,postman,vscode,linux)](https://github.com/psatomas)
 
 ## ⭐️ &nbsp;GitHub Stats
 
