@@ -6,7 +6,7 @@
 ---
 
 <h3 align="center">
-🖥️ Backend Developer | 🐍 Python | 🌐 Django | ⚡ FastAPI | 🦀 Rust | ⟠ Solidity | 🗄️ SQL | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux
+🖥️ Backend Developer | 🐍 Python | 🌐 Django | ⚡ FastAPI | 🗄️ SQL | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux
 </h3>
 
 ```python 
@@ -20,12 +20,12 @@ def life():
 <img src="./assets/programmer.png" alt="Programmer Illustration" width="350" align="right">
 
 - 🎯 Aspiring **Backend Developer**, focused on building reliable and scalable applications.  
-- 🐍 Strong interest in **Python** and the **Django** framework.  
-- ⚙️ Learning and experimenting with **Rust** and **Solidity** for systems programming and blockchain development.  
+- 🐍 Strong interest in **Python** and the **Django** framework.   
 - 🗄️ Experience working with **PostgreSQL** databases.  
 - 🐧 Comfortable with **Linux** and using **Git/GitHub** for version control.  
 - 📦 Exploring **Docker** to improve deployment workflows.  
 - 🌱 Learning more about scalable backend solutions, database optimization, and deployment automation.
+- ⚙️ Learning and experimenting with **Rust** and **Solidity** for systems programming and blockchain development. 
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
