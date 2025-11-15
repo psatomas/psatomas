@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=header&reversal=false&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1000&color=0:0f2027&lines=Hey+there!+Tomás+Araújo+here;Backend+Developer;Exploring+Blockchain+and+Web3;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1000&color=0:0f2027&lines=Hey+there!+Tomás+Araújo+here;Fullstack+Developer;Django+and+React;Building+Reliable+and+Scalable+Apps;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+
 
 
 ---
 
 <h3 align="center">
-🖥️ Backend Developer | 🐍 Python | 🌐 Django | ⚡ FastAPI | 🗄️ SQL | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux
+🖥️ Fullstack Developer | 🐍 Django | ⚛️ React | 🟦 TypeScript | 🔧 Git/GitHub | 🗄️ PostgreSQL | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux 
 </h3>
 
 ```python 
@@ -19,13 +21,15 @@ def life():
 
 <img src="./assets/programmer.png" alt="Programmer Illustration" width="350" align="right">
 
-- 🎯 Aspiring **Backend Developer**, focused on building reliable and scalable applications.  
-- 🐍 Strong interest in **Python** and the **Django** framework.   
-- 🗄️ Experience working with **PostgreSQL** databases.  
-- 🐧 Comfortable with **Linux** and using **Git/GitHub** for version control.  
-- 📦 Exploring **Docker** to improve deployment workflows.  
-- 🌱 Learning more about scalable backend solutions, database optimization, and deployment automation.
-- ⚙️ Learning and experimenting with **Rust** and **Solidity** for systems programming and blockchain development. 
+🎯 **Aspiring Fullstack Developer** focused on building **reliable, scalable, and maintainable applications**. I specialize in **Python backend development** using **Django** and relational databases like **PostgreSQL** and **SQLite**, and I have hands-on experience deploying applications with **Docker** and managing projects with **Git/GitHub**.  
+
+💻 **Frontend & Modern Web:** Experienced with **TypeScript, React, and Next.js**, capable of developing clean, responsive, and modular frontends that integrate seamlessly with backend APIs.  
+
+🛠️ **DevOps & Deployment:** Comfortable with **Linux environments**, containerization using **Docker**, and familiar with **Kubernetes** basics (e.g., running pods with Minikube).  
+
+🌱 **Continuous Learning:** Exploring **Rust and Solidity** for systems programming and blockchain development through personal projects. I enjoy experimenting with new technologies while applying them to practical software solutions.  
+
+⚡ **Who I am:** Methodical and curious, I enjoy **breaking complex problems into clear, implementable steps**. My goal is to deliver high-quality fullstack applications, continuously improve my skills, and contribute effectively to engineering teams. 
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
@@ -36,13 +40,13 @@ def life():
 ## Languages and Tools
 
 ### Focus On
-[![Proficient With](https://skillicons.dev/icons?i=python,django,fastapi,postgresql,sqlite)](https://github.com/psatomas)
+[![Focus On](https://skillicons.dev/icons?i=python,django,postgresql,sqlite,typescript,react,nextjs)](https://github.com/psatomas)
 
-### Basics Of
-[![Familiar With](https://skillicons.dev/icons?i=rust,solidity,html,css,javascript,typescript,react,redux,nextjs,vite,)](https://github.com/psatomas)
+### Familiar With
+[![Familiar With](https://skillicons.dev/icons?i=rust,solidity,html,css,javascript,redux,vite)](https://github.com/psatomas)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,github,npm,yarn,postman,vscode,linux)](https://github.com/psatomas)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,npm,yarn,postman,vscode,linux)](https://github.com/psatomas)
 
 ## ⭐️ &nbsp;GitHub Stats
 
