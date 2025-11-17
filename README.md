@@ -8,7 +8,7 @@
 ---
 
 <h3 align="center">
-🖥️ Fullstack Developer | 🐍 Python | 🟢 Django | ⚡ FastAPI | ⚛️ React | ▲ Next.js | 🟦 TypeScript | 🗄️ PostgreSQL | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux
+🖥️ Fullstack Developer | 🐍 Python | 🟢 Django | ⚡ FastAPI | 🟦 TypeScript | ⚛️ React | ▲ Next.js | 🗄️ PostgreSQL | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux
 </h3>
 
 ```python 
@@ -40,7 +40,7 @@ def life():
 ## Languages and Tools
 
 ### Focus On
-[![Focus On](https://skillicons.dev/icons?i=python,django,postgresql,sqlite,typescript,react,nextjs)](https://github.com/psatomas)
+[![Focus On](https://skillicons.dev/icons?i=python,django,fastapi,typescript,react,nextjs,postgresql,sqlite)](https://github.com/psatomas)
 
 ### Familiar With
 [![Familiar With](https://skillicons.dev/icons?i=html,css,javascript,vite,redux,rust,solidity)](https://github.com/psatomas)
