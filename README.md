@@ -8,7 +8,7 @@
 ---
 
 <h3 align="center">
-🖥️ Fullstack Developer | 🐍 Django | ⚛️ React | 🟦 TypeScript | 🔧 Git/GitHub | 🗄️ PostgreSQL | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux 
+🖥️ Fullstack Developer | 🐍 Python | 🟢 Django | ⚡ FastAPI | ⚛️ React | ▲ Next.js | 🟦 TypeScript | 🗄️ PostgreSQL | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux
 </h3>
 
 ```python 
