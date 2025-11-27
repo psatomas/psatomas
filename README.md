@@ -5,7 +5,7 @@
 ---
 
 <h3 align="center">
-🖥️ Fullstack Developer | 🐍 Python | 🟢 Django | ⚡ FastAPI | 🟦 TypeScript | ⚛️ React | ▲ Next.js | 🗄️ PostgreSQL | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux
+🖥️ Backend Developer | 🐍 Python | 🟢 Django | 🗄️ PostgreSQL | 🐳 Docker | ⚙️ CI/CD | 🐧 Linux
 </h3>
 
 ```python 
