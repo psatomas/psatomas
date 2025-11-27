@@ -56,7 +56,7 @@ def life():
 </table>
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psatomas&bg_color=0d1117&color=1f7fff&line=00ffea&point=00ffea&area=true&area_color=00ffea&hide_border=true)](https://github.com/psatomas)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psatomas&bg_color=092e20&color=00ff88&line=00d47b&point=39ff14&area=true&area_color=00d47b&hide_border=true)](https://github.com/psatomas)
 
 <p align="center"><img src="https://wakatime.com/badge/user/1365cb87-1cc0-4564-b486-b45888a5bbe3.svg" /></p>
 
