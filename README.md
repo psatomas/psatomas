@@ -16,7 +16,7 @@ def life():
 
 ## 👨‍💻 About Me  
 
-<img src="./assets/programmer.png" alt="Programmer Illustration" width="350" align="right">
+<img src="./assets/hacker.png" alt="Programmer Illustration" width="350" align="right">
 
 🎯 **Aspiring Fullstack Developer** focused on building **reliable, scalable, and maintainable applications**. I specialize in **Python backend development** using **Django** and relational databases like **PostgreSQL** and **SQLite**, and I have hands-on experience deploying applications with **Docker** and managing projects with **Git/GitHub**.  
 
