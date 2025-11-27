@@ -14,19 +14,29 @@ def life():
         code()
 ```
 
-## 👨‍💻 About Me  
+## ☣️ About Me  
 
 <img src="./assets/hacker.png" alt="Programmer Illustration" width="350" align="right">
 
-🎯 **Aspiring Fullstack Developer** focused on building **reliable, scalable, and maintainable applications**. I specialize in **Python backend development** using **Django** and relational databases like **PostgreSQL** and **SQLite**, and I have hands-on experience deploying applications with **Docker** and managing projects with **Git/GitHub**.  
+I’m a **Backend Developer** focused on building **reliable**, **high-performance** applications using **Python**, **Django**, and **FastAPI**. My work is centered on writing **clean**, **scalable**, and **well-structured** backend systems — always with an emphasis on **real-world functionality**, **great architecture**, and **production-ready deployment**. I’m currently refining my skills to land my **first backend developer role**, and I’m building a portfolio that reflects the kind of problems I can solve professionally.  
 
-💻 **Frontend & Modern Web:** Experienced with **TypeScript, React, and Next.js**, capable of developing clean, responsive, and modular frontends that integrate seamlessly with backend APIs.  
+🧪 **What I Can Build**  
+With my current stack, I’m able to design and implement:  
+**RESTful APIs using Django REST Framework or FastAPI**  
+Efficient request handling, authentication, permissions, serializers, throttling, and pagination.  
+**Full database-driven applications**  
+Using **PostgreSQL** as my main relational DB, with optimized queries, indexing strategies, migrations, and clean schema design.  
+**Dockerized and cloud-ready environments**  
+Containerizing applications, writing **Dockerfiles**, **Docker Compose** setups, and preparing services for **Kubernetes** deployment.  
+**CI/CD automation**  
+Using **GitHub Actions** to automate testing, linting, builds, and deployments.  
+**API testing & documentation**  
+Using **Postman**, automatic FastAPI docs, DRF’s schema generation, and consistent testing with Python.  
+**Linux-based server operations**  
+Comfortable with managing services, file systems, packages, and environment configuration in **Linux** environments.  
 
-🛠️ **DevOps & Deployment:** Comfortable with **Linux environments**, containerization using **Docker**, and familiar with **Kubernetes** basics (e.g., running pods with Minikube).  
-
-🌱 **Continuous Learning:** Exploring **Rust and Solidity** for systems programming and blockchain development through personal projects. I enjoy experimenting with new technologies while applying them to practical software solutions.  
-
-⚡ **Who I am:** Methodical and curious, I enjoy **breaking complex problems into clear, implementable steps**. My goal is to deliver high-quality fullstack applications, continuously improve my skills, and contribute effectively to engineering teams. 
+🧬 **What Drives Me**  
+Right now, my full focus is mastering **backend engineering** — building systems that are **secure**, **scalable**, and **ready for production**. I’m also expanding into DevOps tooling (**Docker**, **Kubernetes**, **GitHub Actions**) and exploring distributed systems (**Kafka**, queueing, caching) to be able to contribute to real-world engineering teams from day one.
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
