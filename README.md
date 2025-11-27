@@ -47,13 +47,14 @@ def life():
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=psatomas&show_icons=true&theme=react&hide_border=false&count_private=true&bg_color=0f2027&title_color=1f7fff&text_color=ffffff&icon_color=00ffea&border_radius=15" height="200px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=psatomas&show_icons=true&theme=react&hide_border=false&count_private=true&bg_color=092e20&title_color=00d47b&text_color=00ff88&icon_color=39ff14&border_radius=15" height="200px"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatomas&layout=compact&theme=react&hide_border=false&bg_color=0f2027&title_color=1f7fff&text_color=ffffff&border_radius=15" height="200px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatomas&layout=compact&theme=react&hide_border=false&bg_color=092e20&title_color=00d47b&text_color=00ff88&border_radius=15" height="200px"/>
     </td>
   </tr>
 </table>
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psatomas&bg_color=0d1117&color=1f7fff&line=00ffea&point=00ffea&area=true&area_color=00ffea&hide_border=true)](https://github.com/psatomas)
 
