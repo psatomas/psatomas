@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=header&reversal=false&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:092e20,50:00d47b,100:39ff14)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=0:0f2027&lines=Hey+there!+Tomás+Araújo+here;Backend+Developer;Python+%7C+Django+%7C+Docker+%7C+PostgreSQL;Crafting+Robust+Backend+Systems;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=00ff88&lines=Hey+there!+Tomás+Araújo+here;Backend+Developer;Python+%7C+Django+%7C+Docker+%7C+PostgreSQL;Crafting+Robust+Backend+Systems;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ---
 
@@ -61,4 +61,4 @@ def life():
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=psatomas" alt="psatomas" /> </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=footer&reversal=false&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:092e20,50:00d47b,100:39ff14&section=footer&reversal=false&animation=twinkling)
