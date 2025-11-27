@@ -37,16 +37,13 @@ def life():
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+558196914490)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psatomas@gmail.com)
 
-## Languages and Tools
+## Tech Stack & Expertise
 
-### Focus On
-[![Focus On](https://skillicons.dev/icons?i=python,django,fastapi,typescript,react,nextjs,postgresql,sqlite)](https://github.com/psatomas)
+### Core Skills
+[![Core Skills](https://skillicons.dev/icons?i=python,django,postgresql,docker,git)](https://github.com/psatomas)
 
-### Familiar With
-[![Familiar With](https://skillicons.dev/icons?i=html,css,javascript,vite,redux,rust,solidity)](https://github.com/psatomas)
-
-### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,redis,npm,yarn,postman,vscode,linux)](https://github.com/psatomas)
+### Supporting Skills
+[![Supporting Skills](https://skillicons.dev/icons?i=fastapi,linux,redis,kafka,rabbitmq,githubactions,github,sqlite,postman,kubernetes)](https://github.com/psatomas)
 
 ## ⭐️ &nbsp;GitHub Stats
 
