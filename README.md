@@ -36,7 +36,7 @@ Using **Postman**, automatic FastAPI docs, DRF’s schema generation, and consis
 Comfortable with managing services, file systems, packages, and environment configuration in **Linux** environments.  
 
 🧬 **What Drives Me**  
-Right now, my full focus is mastering **backend engineering** — building systems that are **secure**, **scalable**, and **ready for production**. I’m also expanding into DevOps tooling (**Docker**, **Kubernetes**, **GitHub Actions**) and exploring distributed systems (**Kafka**, queueing, caching) to be able to contribute to real-world engineering teams from day one.
+Right now, my full focus is mastering **backend engineering** — building systems that are **secure**, **scalable**, and **ready for production**. I’m also expanding into DevOps tooling (**Docker**, **Kubernetes**, **GitHub Actions**) while improving my understanding of queueing systems and caching (**Redis**, **Celery**, **RabbitMQ**) to be fully prepared for production environments.
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
