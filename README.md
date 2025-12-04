@@ -50,7 +50,7 @@ Right now, my full focus is mastering **backend engineering** — building syste
 [![Core Skills](https://skillicons.dev/icons?i=python,django,postgresql,docker,git)](https://github.com/psatomas)
 
 ### Supporting Skills
-[![Supporting Skills](https://skillicons.dev/icons?i=fastapi,linux,redis,kafka,rabbitmq,githubactions,github,sqlite,postman,kubernetes)](https://github.com/psatomas)
+[![Supporting Skills](https://skillicons.dev/icons?i=linux,fastapi,nginx,redis,rabbitmq,kubernetes,githubactions,github,postman,sqlite)](https://github.com/psatomas)
 
 ## ⭐️ &nbsp;GitHub Stats
 
