@@ -5,7 +5,7 @@
 ---
 
 <h3 align="center">
-🖥️ Backend Developer | 🐍 Python | 🟢 Django | 🗄️ PostgreSQL | 🐳 Docker | ⚙️ CI/CD | 🐧 Linux
+Backend Developer | Python | Django | PostgreSQL | Docker | CI/CD | Linux
 </h3>
 
 ```python 
