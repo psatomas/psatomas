@@ -10,24 +10,26 @@ Full-Stack Developer | Python, Django, FastAPI | React, PostgreSQL, Docker
 
 ## About Me
 
-Backend Developer focused on building **reliable, high-performance backend systems** using **Python**, **Django**, and **FastAPI**.  
-I emphasize **clean architecture**, **scalability**, and **production-ready deployment**, and I’m currently building a portfolio aimed at landing my **first backend developer role**.
+Full-Stack Developer with a strong backend focus, building **reliable, high-performance systems** using **Python**, **Django**, and **FastAPI**, complemented by **React** on the frontend.  
+I emphasize **clean architecture**, **scalability**, and **production-ready deployment**, and I’m actively building a portfolio aimed at landing my **first professional full-stack or backend-oriented role**.
 
 ## What I Build
 
 - **RESTful APIs** with Django REST Framework and FastAPI  
-- **Database-driven applications** using PostgreSQL (schema design, migrations, optimization)  
+- **Full-stack applications** with a Python backend and **React** frontend  
+- **Database-driven systems** using PostgreSQL (schema design, migrations, optimization)  
 - **Containerized environments** with Docker and Docker Compose  
 - **CI/CD pipelines** using GitHub Actions  
-- **Linux-based backend services** and environment configuration  
+- **Linux-based services** and environment configuration  
 
 ## Tech Stack & Expertise
 
 - **Backend:** Python, Django, Django REST Framework, FastAPI  
+- **Frontend:** React, TypeScript (fundamentals)  
 - **Databases:** PostgreSQL  
 - **DevOps:** Docker, Docker Compose, GitHub Actions, Linux  
 - **Architecture:** Modular design, background tasks (Celery), caching & queues (Redis)  
-- **Tooling:** Git, GitHub, Postman 
+- **Tooling:** Git, GitHub, Postman  
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
