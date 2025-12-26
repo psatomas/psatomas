@@ -54,11 +54,11 @@ Right now, my full focus is mastering **backend engineering** — building syste
 ## ⭐️ &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psatomas&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=092e20&title_color=00d47b&text_color=00ff88&icon_color=39ff14&border_radius=15" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatomas&layout=compact&theme=react&hide_border=true&bg_color=092e20&title_color=00d47b&text_color=00ff88&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psatomas&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0F172A&title_color=94A3B8&text_color=94A3B8&icon_color=64748B&border_radius=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatomas&layout=compact&theme=react&hide_border=true&bg_color=0F172A&title_color=94A3B8&text_color=94A3B8&border_radius=15"/>
 </div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psatomas&bg_color=092e20&color=00ff88&line=00d47b&point=39ff14&area=true&area_color=00d47b&hide_border=true)](https://github.com/psatomas)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psatomas&bg_color=0F172A&color=94A3B8&line=1E293B&point=94A3B8&area=true&area_color=1E293B&hide_border=true)](https://github.com/psatomas)
 
 <p align="center"><img src="https://wakatime.com/badge/user/1365cb87-1cc0-4564-b486-b45888a5bbe3.svg" /></p>
 
