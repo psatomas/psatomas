@@ -37,12 +37,38 @@ Right now, my full focus is mastering **backend engineering** — building syste
 
 ## Tech Stack & Expertise
 
-### Core Skills
-[![Core Skills](https://skillicons.dev/icons?i=python,django,postgresql,docker,git)](https://github.com/psatomas)
+I’m experienced in building **scalable, maintainable backend systems** with a strong focus on **Python**, **Django**, and **FastAPI**. My expertise spans from database design to infrastructure setup, enabling **production-ready deployments**.
 
-### Supporting Skills
-[![Supporting Skills](https://skillicons.dev/icons?i=linux,fastapi,redis,kubernetes,githubactions,github,postman)](https://github.com/psatomas)
+**Backend Development**  
+I design and implement RESTful APIs and backend services using:
+- **Python** for backend logic, scripting, and automation  
+- **Django** for structured, maintainable web applications  
+- **Django REST Framework** for authentication, permissions, pagination, and validation  
+- **FastAPI** for high-performance APIs with automatic documentation  
 
+**Databases**  
+I work primarily with **PostgreSQL** to ensure reliable and efficient data handling:
+- Database schema design, migrations, and indexing  
+- Query optimization and transactional integrity  
+- Building full database-driven applications  
+
+**Infrastructure & DevOps**  
+I prepare applications for production using modern DevOps practices:
+- Containerization with **Docker** and **Docker Compose**  
+- CI/CD pipelines using **GitHub Actions**  
+- Confident operation in **Linux-based environments**  
+
+**System Design & Architecture**  
+I focus on clean architecture and scalability:
+- Modular design and separation of concerns  
+- Background processing with **Celery** and **Redis**  
+- Queue-based workflows and caching strategies for scalable systems  
+
+**Supporting Tools**  
+I use professional tooling to ensure quality and collaboration:
+- **Git & GitHub** for version control and code reviews  
+- **Postman** for API testing and validation  
+- Foundational knowledge of **Kubernetes** and container orchestration  
 ## &nbsp;GitHub Stats
 
 <div align="center">
