@@ -8,12 +8,6 @@
 Backend Developer | Python | Django | PostgreSQL | Docker | CI/CD | Linux
 </h3>
 
-```python 
-def life():
-    while alive:
-        code()
-```
-
 ## ☣️ About Me  
 
 <img src="./assets/hacker.png" alt="Programmer Illustration" width="350" align="right">
