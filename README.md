@@ -10,8 +10,6 @@ Backend Developer | Python | Django | PostgreSQL | Docker | CI/CD | Linux
 
 ## ☣️ About Me  
 
-<img src="./assets/hacker.png" alt="Programmer Illustration" width="350" align="right">
-
 I’m a **Backend Developer** focused on building **reliable**, **high-performance** applications using **Python**, **Django**, and **FastAPI**. My work is centered on writing **clean**, **scalable**, and **well-structured** backend systems — always with an emphasis on **real-world functionality**, **great architecture**, and **production-ready deployment**. I’m currently refining my skills to land my **first backend developer role**, and I’m building a portfolio that reflects the kind of problems I can solve professionally.  
 
 🧪 **What I Can Build**  
