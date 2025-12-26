@@ -8,11 +8,11 @@
 Backend Developer | Python | Django | PostgreSQL | Docker | CI/CD | Linux
 </h3>
 
-## ☣️ About Me  
+## About Me  
 
 I’m a **Backend Developer** focused on building **reliable**, **high-performance** applications using **Python**, **Django**, and **FastAPI**. My work is centered on writing **clean**, **scalable**, and **well-structured** backend systems — always with an emphasis on **real-world functionality**, **great architecture**, and **production-ready deployment**. I’m currently refining my skills to land my **first backend developer role**, and I’m building a portfolio that reflects the kind of problems I can solve professionally.  
 
-🧪 **What I Can Build**  
+**What I Can Build**  
 With my current stack, I’m able to design and implement:  
 **RESTful APIs using Django REST Framework or FastAPI**  
 Efficient request handling, authentication, permissions, serializers, throttling, and pagination.  
@@ -27,7 +27,7 @@ Using **Postman**, automatic FastAPI docs, DRF’s schema generation, and consis
 **Linux-based server operations**  
 Comfortable with managing services, file systems, packages, and environment configuration in **Linux** environments.  
 
-🧬 **What Drives Me**  
+**What Drives Me**  
 Right now, my full focus is mastering **backend engineering** — building systems that are **secure**, **scalable**, and **ready for production**. I’m also expanding into DevOps tooling (**Docker**, **Kubernetes**, **GitHub Actions**) while improving my understanding of queueing systems and caching (**Redis**, **Celery**, **RabbitMQ**) to be fully prepared for production environments.
 
 ## Contact Info:
@@ -43,7 +43,7 @@ Right now, my full focus is mastering **backend engineering** — building syste
 ### Supporting Skills
 [![Supporting Skills](https://skillicons.dev/icons?i=linux,fastapi,redis,kubernetes,githubactions,github,postman)](https://github.com/psatomas)
 
-## ⭐️ &nbsp;GitHub Stats
+## &nbsp;GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psatomas&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0F172A&title_color=94A3B8&text_color=94A3B8&icon_color=64748B&border_radius=15" />
