@@ -64,13 +64,13 @@ I use professional tooling to ensure quality and collaboration:
 - **Git & GitHub** for version control and code reviews  
 - **Postman** for API testing and validation  
 - Foundational knowledge of **Kubernetes** and container orchestration
-  
-## &nbsp;GitHub Stats
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+558196914490)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psatomas@gmail.com)
+
+## &nbsp;GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psatomas&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0F172A&title_color=94A3B8&text_color=94A3B8&icon_color=64748B&border_radius=15" />
