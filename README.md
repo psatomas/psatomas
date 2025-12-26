@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,50:1E293B,100:94A3B8)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1100&color=94A3B8&lines=Hey+there!+Tomás+Araújo+here;Backend+Developer;Python+%7C+Django+%7C+Docker+%7C+PostgreSQL;Crafting+Robust+Backend+Systems;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=42&center=true&vCenter=true&width=1200&color=94A3B8&lines=Hey+there!+Tomas+Araujo+here;Backend-Focused+Full-Stack+Developer;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;React+%7C+TypeScript+Frontend;Docker+%7C+APIs;System+Design+%7C+Scalable+Solutions)](https://git.io/typing-svg)
 
 ---
 
