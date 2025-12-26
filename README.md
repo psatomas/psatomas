@@ -8,62 +8,26 @@
 Backend Developer | Python | Django | PostgreSQL | Docker | CI/CD | Linux
 </h3>
 
-## About Me  
+## About Me
 
-I’m a **Backend Developer** focused on building **reliable**, **high-performance** applications using **Python**, **Django**, and **FastAPI**. My work is centered on writing **clean**, **scalable**, and **well-structured** backend systems — always with an emphasis on **real-world functionality**, **great architecture**, and **production-ready deployment**. I’m currently refining my skills to land my **first backend developer role**, and I’m building a portfolio that reflects the kind of problems I can solve professionally.  
+Backend Developer focused on building **reliable, high-performance backend systems** using **Python**, **Django**, and **FastAPI**.  
+I emphasize **clean architecture**, **scalability**, and **production-ready deployment**, and I’m currently building a portfolio aimed at landing my **first backend developer role**.
 
-**What I Can Build**  
-With my current stack, I’m able to design and implement:  
-**RESTful APIs using Django REST Framework or FastAPI**  
-Efficient request handling, authentication, permissions, serializers, throttling, and pagination.  
-**Full database-driven applications**  
-Using **PostgreSQL** as my main relational DB, with optimized queries, indexing strategies, migrations, and clean schema design.  
-**Dockerized and cloud-ready environments**  
-Containerizing applications, writing **Dockerfiles**, **Docker Compose** setups, and preparing services for **Kubernetes** deployment.  
-**CI/CD automation**  
-Using **GitHub Actions** to automate testing, linting, builds, and deployments.  
-**API testing & documentation**  
-Using **Postman**, automatic FastAPI docs, DRF’s schema generation, and consistent testing with Python.  
-**Linux-based server operations**  
-Comfortable with managing services, file systems, packages, and environment configuration in **Linux** environments.  
+## What I Build
 
-**What Drives Me**  
-Right now, my full focus is mastering **backend engineering** — building systems that are **secure**, **scalable**, and **ready for production**. I’m also expanding into DevOps tooling (**Docker**, **Kubernetes**, **GitHub Actions**) while improving my understanding of queueing systems and caching (**Redis**, **Celery**, **RabbitMQ**) to be fully prepared for production environments.
+- **RESTful APIs** with Django REST Framework and FastAPI  
+- **Database-driven applications** using PostgreSQL (schema design, migrations, optimization)  
+- **Containerized environments** with Docker and Docker Compose  
+- **CI/CD pipelines** using GitHub Actions  
+- **Linux-based backend services** and environment configuration  
 
 ## Tech Stack & Expertise
 
-I’m experienced in building **scalable, maintainable backend systems** with a strong focus on **Python**, **Django**, and **FastAPI**. My expertise spans from database design to infrastructure setup, enabling **production-ready deployments**.
-
-**Backend Development**  
-I design and implement RESTful APIs and backend services using:
-- **Python** for backend logic, scripting, and automation  
-- **Django** for structured, maintainable web applications  
-- **Django REST Framework** for authentication, permissions, pagination, and validation  
-- **FastAPI** for high-performance APIs with automatic documentation  
-
-**Databases**  
-I work primarily with **PostgreSQL** to ensure reliable and efficient data handling:
-- Database schema design, migrations, and indexing  
-- Query optimization and transactional integrity  
-- Building full database-driven applications  
-
-**Infrastructure & DevOps**  
-I prepare applications for production using modern DevOps practices:
-- Containerization with **Docker** and **Docker Compose**  
-- CI/CD pipelines using **GitHub Actions**  
-- Confident operation in **Linux-based environments**  
-
-**System Design & Architecture**  
-I focus on clean architecture and scalability:
-- Modular design and separation of concerns  
-- Background processing with **Celery** and **Redis**  
-- Queue-based workflows and caching strategies for scalable systems  
-
-**Supporting Tools**  
-I use professional tooling to ensure quality and collaboration:
-- **Git & GitHub** for version control and code reviews  
-- **Postman** for API testing and validation  
-- Foundational knowledge of **Kubernetes** and container orchestration
+- **Backend:** Python, Django, Django REST Framework, FastAPI  
+- **Databases:** PostgreSQL  
+- **DevOps:** Docker, Docker Compose, GitHub Actions, Linux  
+- **Architecture:** Modular design, background tasks (Celery), caching & queues (Redis)  
+- **Tooling:** Git, GitHub, Postman 
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
