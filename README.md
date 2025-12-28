@@ -5,7 +5,7 @@
 ---
 
 <h3 align="center">
-Full-Stack Developer | Python, Django, FastAPI | React, PostgreSQL, Docker
+Full-Stack Developer | Python, FastAPI, Django | React, PostgreSQL, Docker
 </h3>
 
 ## About Me
