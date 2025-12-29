@@ -10,12 +10,14 @@ Full-Stack Developer | Python, FastAPI, Django | React, PostgreSQL, Docker
 
 ## About Me
 
-Full-Stack Developer with a strong backend focus, building **reliable, high-performance systems** using **Python**, **Django**, and **FastAPI**, complemented by **React** on the frontend.  
+Full-Stack Developer with a strong backend focus, building **reliable, high-performance systems** using **Python**, **FastAPI**, and **Django**, complemented by **React** on the frontend.  
 I emphasize **clean architecture**, **scalability**, and **production-ready deployment**, and I’m actively building a portfolio aimed at landing my **first professional full-stack or backend-oriented role**.
 
 ## What I Build
 
-- **RESTful APIs** with Django REST Framework and FastAPI  
+- **RESTful APIs** using FastAPI and Django REST Framework  
+- **Data validation and serialization** with Pydantic  
+- **ORM-based data access layers** using SQLAlchemy and Django ORM  
 - **Full-stack applications** with a Python backend and **React** frontend  
 - **Database-driven systems** using PostgreSQL (schema design, migrations, optimization)  
 - **Containerized environments** with Docker and Docker Compose  
@@ -24,12 +26,12 @@ I emphasize **clean architecture**, **scalability**, and **production-ready depl
 
 ## Tech Stack & Expertise
 
-- **Backend:** Python, Django, Django REST Framework, FastAPI  
+- **Backend:** Python, FastAPI, Django, Django REST Framework, SQLAlchemy, Pydantic  
 - **Frontend:** React, TypeScript (fundamentals)  
 - **Databases:** PostgreSQL  
 - **DevOps:** Docker, Docker Compose, GitHub Actions, Linux  
-- **Architecture:** Modular design, background tasks (Celery), caching & queues (Redis)  
-- **Tooling:** Git, GitHub, Postman  
+- **Architecture:** Modular design, background tasks, caching & queues (Redis)  
+- **Tooling:** Git, GitHub, Postman
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
