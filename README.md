@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,50:1E293B,100:94A3B8)
 
----
+# Tomás Araújo
 
 <h3 align="center">
 Full-Stack Developer | Python, FastAPI, Django | React, PostgreSQL, Docker
