@@ -3,7 +3,7 @@
 # Tomás Araújo
 
 <h3 align="center">
-Full-Stack Developer | Python, FastAPI, Django | React, PostgreSQL, Docker
+Blockchain Developer | Smart Contracts (Solidity) | DeFi Applications
 </h3>
 
 ## About Me
