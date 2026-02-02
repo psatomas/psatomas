@@ -24,12 +24,13 @@ I emphasize **clean architecture**, **scalability**, and **production-ready depl
 
 ## Tech Stack & Expertise
 
-- **Backend:** Python, FastAPI, Django, Django REST Framework, SQLAlchemy, Pydantic  
-- **Frontend:** React, TypeScript (fundamentals)  
+- **Blockchain / Web3:** Solidity, EVM, Smart Contracts, OpenZeppelin (basics)  
+- **Backend (Off-chain):** Node.js (learning), Web3 APIs, contract interaction  
+- **Frontend (dApps):** React, TypeScript (fundamentals)  
 - **Databases:** PostgreSQL  
 - **DevOps:** Docker, Docker Compose, GitHub Actions, Linux  
-- **Architecture:** Modular design, background tasks, caching & queues (Redis)  
-- **Tooling:** Git, GitHub, Postman
+- **Architecture:** Contract-driven design, on-chain/off-chain integration  
+- **Tooling:** Git, GitHub
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
