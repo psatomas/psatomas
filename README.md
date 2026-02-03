@@ -13,14 +13,13 @@ I emphasize **clean architecture**, **scalability**, and **production-ready depl
 
 ## What I Build
 
-- **RESTful APIs** using FastAPI and Django REST Framework  
-- **Data validation and serialization** with Pydantic  
-- **ORM-based data access layers** using SQLAlchemy and Django ORM  
-- **Full-stack applications** with a Python backend and **React** frontend  
-- **Database-driven systems** using PostgreSQL (schema design, migrations, optimization)  
-- **Containerized environments** with Docker and Docker Compose  
-- **CI/CD pipelines** using GitHub Actions  
-- **Linux-based services** and environment configuration  
+- **Smart contracts** in Solidity, focusing on clear logic, correctness, and maintainability  
+- **On-chain systems** using events and contract-driven design  
+- **Web3 backends (off-chain)** to interact with smart contracts, index events, and expose APIs  
+- **Decentralized applications (dApps)** with React, connecting user interfaces to blockchain logic  
+- **Event-based data models** for storing and querying on-chain activity using PostgreSQL  
+- **Local and containerized development environments** for smart contracts and Web3 services  
+- **End-to-end Web3 workflows**, from contract deployment to frontend integration
 
 ## Tech Stack & Expertise
 
