@@ -29,7 +29,7 @@ My background in backend development helps me approach blockchain systems with a
 - **Backend (Off-chain):** Node.js (learning), Web3 APIs, contract interaction  
 - **Frontend (dApps):** React, TypeScript (fundamentals)  
 - **Databases:** PostgreSQL  
-- **DevOps:** Docker, Docker Compose, GitHub Actions, Linux  
+- **DevOps:** Docker, Docker Compose, Kubernetes, GitHub Actions, Linux  
 - **Architecture:** Contract-driven design, on-chain/off-chain integration  
 - **Tooling:** Git, GitHub
 
