@@ -25,7 +25,7 @@ My background in backend development helps me approach blockchain systems with a
 
 ## Tech Stack & Expertise
 
-- **Blockchain / Web3:** Solidity, EVM, Smart Contracts, OpenZeppelin (basics)  
+- **Blockchain / Web3:** Solidity, EVM, Smart Contracts, OpenZeppelin (basics), Rust
 - **Backend (Off-chain):** Node.js (learning), Web3 APIs, contract interaction  
 - **Frontend (dApps):** React, TypeScript (fundamentals)  
 - **Databases:** PostgreSQL  
