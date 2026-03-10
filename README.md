@@ -3,7 +3,7 @@
 # Tomás Araújo
 
 <h3 align="center">
-Blockchain Developer | Smart Contracts (Solidity) | Web3 Infrastructure & DeFi Systems
+Blockchain Engineer | Rust & Solidity | Web3 Infrastructure
 </h3>
 
 ## About Me
