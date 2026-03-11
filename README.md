@@ -23,15 +23,22 @@ My background in backend development helps me approach blockchain systems with a
 - **Local and containerized development environments** for smart contracts and Web3 services  
 - **End-to-end Web3 workflows**, from contract deployment to frontend integration
 
-## Tech Stack & Expertise
+## Stack
 
-- **Blockchain / Web3:** Solidity, EVM, Smart Contracts, OpenZeppelin (basics), Rust
-- **Backend (Off-chain):** Node.js (learning), Web3 APIs, contract interaction  
-- **Frontend (dApps):** React, TypeScript (fundamentals)  
-- **Databases:** PostgreSQL  
-- **DevOps:** Docker, Docker Compose, Kubernetes, GitHub Actions, Linux  
-- **Architecture:** Contract-driven design, on-chain/off-chain integration  
-- **Tooling:** Git, GitHub
+**Blockchain**
+Solidity • EVM • Rust • Solana
+
+**Backend / Off-chain**
+Node.js • Web3 APIs
+
+**Frontend**
+React • TypeScript
+
+**Infra**
+Docker • Kubernetes • GitHub Actions • Linux
+
+**Data**
+PostgreSQL
 
 ## Contact
 
