@@ -14,7 +14,7 @@ Building **on-chain protocols and smart contract systems** with clear logic, str
 
 - Smart contracts in **Solidity (EVM)**
 - **Rust programs for Solana**
-- **Protocol architecture**
+- **Protocol architecture & tokenomics**
 - Event-driven **on-chain/off-chain systems**
 - **Web3 backends** for indexing and contract interaction
 - **dApps** connecting UI ↔ smart contracts
