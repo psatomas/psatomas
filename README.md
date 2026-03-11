@@ -17,7 +17,6 @@ Building **on-chain protocols and smart contract systems** with clear logic, str
 - **Protocol architecture & tokenomics**
 - Event-driven **on-chain/off-chain systems**
 - **Web3 backends** for indexing and contract interaction
-- **dApps** connecting UI ↔ smart contracts
 
 ## Stack
 
@@ -25,10 +24,7 @@ Building **on-chain protocols and smart contract systems** with clear logic, str
 Solidity • EVM • Rust • Solana
 
 **Backend / Off-chain**
-Node.js • Web3 APIs
-
-**Frontend**
-React • TypeScript
+Node.js • TypeScript • Web3 APIs (ethers.js, web3.js)
 
 **Infra**
 Docker • Kubernetes • GitHub Actions • Linux
