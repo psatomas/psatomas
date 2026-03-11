@@ -6,12 +6,9 @@
 Protocol Engineer | Solidity (EVM) & Rust (Solana)
 </h3>
 
-## About Me
+## Focus
 
-Blockchain Developer focused on **Solidity and smart contract development**, building reliable on-chain systems and Web3 applications.  
-I work with a strong engineering mindset, emphasizing **clear contract logic**, **event-driven design**, and **clean integration between on-chain and off-chain components**.
-
-My background in backend development helps me approach blockchain systems with attention to **architecture, data modeling, and production readiness**, while my current focus is on growing as a **smart contract and Web3 engineer** through hands-on projects.
+Building **on-chain protocols and smart contract systems** with clear logic, strong architecture, and reliable off-chain integration.
 
 ## Areas of Work
 
