@@ -13,15 +13,14 @@ I work with a strong engineering mindset, emphasizing **clear contract logic**, 
 
 My background in backend development helps me approach blockchain systems with attention to **architecture, data modeling, and production readiness**, while my current focus is on growing as a **smart contract and Web3 engineer** through hands-on projects.
 
-## What I Build
+## Areas of Work
 
-- **Smart contracts** in Solidity, focusing on clear logic, correctness, and maintainability  
-- **On-chain systems** using events and contract-driven design  
-- **Web3 backends (off-chain)** to interact with smart contracts, index events, and expose APIs  
-- **Decentralized applications (dApps)** with React, connecting user interfaces to blockchain logic  
-- **Event-based data models** for storing and querying on-chain activity using PostgreSQL  
-- **Local and containerized development environments** for smart contracts and Web3 services  
-- **End-to-end Web3 workflows**, from contract deployment to frontend integration
+- Smart contracts in **Solidity (EVM)**
+- **Rust programs for Solana**
+- **Protocol architecture**
+- Event-driven **on-chain/off-chain systems**
+- **Web3 backends** for indexing and contract interaction
+- **dApps** connecting UI ↔ smart contracts
 
 ## Stack
 
