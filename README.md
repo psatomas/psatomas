@@ -3,7 +3,7 @@
 # Tomás Araújo
 
 <h3 align="center">
-Blockchain Engineer | Rust & Solidity | Web3 Infrastructure
+Protocol Engineer | Solidity (EVM) & Rust (Solana)
 </h3>
 
 ## About Me
