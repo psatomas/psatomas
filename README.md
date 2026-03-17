@@ -8,7 +8,7 @@ Protocol Engineer | Solidity (EVM) & Rust (Solana)
 
 ## Focus
 
-Building **on-chain protocols and smart contract systems** with clear logic, strong architecture, and reliable off-chain integration.
+Designing and building **secure on-chain protocols and smart contract systems** with **robust architecture** and **seamless off-chain integration**.
 
 ## Areas of Work
 
