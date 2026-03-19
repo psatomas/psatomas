@@ -3,39 +3,39 @@
 # Tomás Araújo
 
 <h3 align="center">
-Protocol Engineer | Solidity (EVM) & Rust (Solana)
+Web3 / Smart Contract Developer | Solidity (EVM) & Rust (Solana)
 </h3>
 
 ## Focus
 
-Designing and building **secure on-chain protocols and smart contract systems** with **robust architecture** and **seamless off-chain integration**.
+Building and integrating **secure smart contracts** with **robust off-chain systems** while gaining deep understanding of **protocol architecture** and **on-chain state management**.
 
 ## Areas of Work
 
 - Smart contracts in **Solidity (EVM)**
 - **Rust programs for Solana**
-- **Protocol architecture & tokenomics**
 - Event-driven **on-chain/off-chain systems**
-- **Web3 backends** for indexing and contract interaction
+- **Web3 backends / indexers** for contract interaction
+- Protocol architecture awareness (vaults, AMMs, lending, staking)
 
 ## Stack
 
-**Blockchain**
-Solidity • EVM • Rust • Solana
+**Blockchain**  
+Solidity • EVM • Rust • Solana • Foundry / Hardhat (testing & deployment)
 
-**Backend / Off-chain**
+**Backend / Off-chain**  
 Node.js • TypeScript • Web3 APIs (ethers.js, web3.js)
 
-**Infra**
+**Infra / DevOps**  
 Docker • Kubernetes • GitHub Actions • Linux
 
-**Data**
+**Data**  
 PostgreSQL
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+558196914490)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+558196914490)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psatomas@gmail.com)
 
 <p align="center">
