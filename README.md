@@ -21,7 +21,7 @@ Designing and implementing smart contract systems with supporting off-chain infr
 - **Rust programs for Solana**
 - Event-driven **on-chain/off-chain systems**
 - **Web3 backends / indexers** for contract interaction
-- Protocol architecture awareness (vaults, AMMs, lending, staking)
+- Design of protocol primitives (vaults, staking, lending patterns)
 
 ---
 
@@ -54,16 +54,18 @@ Designing and implementing smart contract systems with supporting off-chain infr
 ## Stack
 
 **Blockchain**  
-Solidity • EVM • Rust • Solana • Foundry / Hardhat (testing & deployment)
+Solidity • EVM • Rust • Solana • Foundry / Hardhat
 
 **Backend / Off-chain**  
-Node.js • TypeScript • Web3 APIs (ethers.js, web3.js)
+Node.js • TypeScript • ethers.js / web3.js
 
 **Infra / DevOps**  
-Docker • Kubernetes • GitHub Actions • Linux
+Docker • Linux • Git
 
 **Data**  
 PostgreSQL
+
+---
 
 ## Contact
 
