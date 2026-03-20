@@ -3,12 +3,17 @@
 # Tomás Araújo
 
 <h3 align="center">
-Web3 / Smart Contract Developer | Solidity (EVM) & Rust (Solana)
+Smart Contract & Web3 Backend Developer  
+(Solidity • Rust • Indexers)
 </h3>
+
+---
 
 ## Focus
 
-Building and integrating **secure smart contracts** with **robust off-chain systems** while gaining deep understanding of **protocol architecture** and **on-chain state management**.
+Designing and implementing smart contract systems with supporting off-chain infrastructure (indexers, APIs, event pipelines), focusing on correctness, security, and state consistency.
+
+---
 
 ## Areas of Work
 
