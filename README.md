@@ -23,6 +23,34 @@ Designing and implementing smart contract systems with supporting off-chain infr
 - **Web3 backends / indexers** for contract interaction
 - Protocol architecture awareness (vaults, AMMs, lending, staking)
 
+---
+
+## Projects
+
+### Vault Indexer (TypeScript + PostgreSQL)
+- Event-driven indexer for tracking deposits and withdrawals
+- Handles chain reorgs and maintains consistent state
+- Exposes REST API for querying indexed data
+
+### ERC-20 + Staking Contract (Solidity)
+- Token implementation with staking mechanism
+- Time-based reward distribution logic
+- Tested with Foundry (unit + fuzz testing)
+
+### Solana Program (Rust)
+- Basic stateful program using Solana account model
+- Instruction handling and state transitions
+- Focus on understanding low-level architecture
+
+---
+
+## Currently Building
+
+- Vault + Indexer system (EVM)
+- Exploring Solana program architecture in Rust
+
+---
+
 ## Stack
 
 **Blockchain**  
