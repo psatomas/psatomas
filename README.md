@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,50:1E293B,100:94A3B8)
-
 # Tomás Araújo
 
 <h3 align="center">
@@ -77,11 +75,4 @@ Docker • Linux • Git
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+558196914490)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psatomas@gmail.com)
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=psatomas&color=0A66C2&style=for-the-badge" alt="Profile views" />
-</p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,50:1E293B,100:94A3B8&section=footer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=psatomas@gmail.com)
