@@ -30,20 +30,31 @@ Design and development of Web3 systems, combining smart contracts with robust of
 
 ## Projects
 
-### Vault Indexer (TypeScript + PostgreSQL)
-- Event-driven indexer for tracking deposits and withdrawals
-- Handles chain reorgs and maintains consistent state
-- Exposes REST API for querying indexed data
+### 🏗️ DeFi Micro SaaS
+Modular DeFi system combining on-chain financial logic with off-chain orchestration.
 
-### ERC-20 + Staking Contract (Solidity)
-- Token implementation with staking mechanism
-- Time-based reward distribution logic
-- Tested with Foundry (unit + fuzz testing)
+- Vault systems and staking mechanisms  
+- Event-driven backend with indexing layer  
+- Separation between canonical on-chain state and derived off-chain data  
+- Composable and deterministic system design  
 
-### Solana Program (Rust)
-- Basic stateful program using Solana account model
-- Instruction handling and state transitions
-- Focus on understanding low-level architecture
+---
+
+### 🧠 Protocol Engineering Lab
+Exploration of protocol primitives and blockchain system design.
+
+- State models, primitives, and contract patterns  
+- Data structures and low-level execution concepts  
+- Solidity experiments for protocol mechanics  
+
+---
+
+### ⛓️ Web3 Status Registry dApp
+Web3 application demonstrating contract interaction and state persistence.
+
+- Wallet connection via MetaMask  
+- Read/write interaction with deployed contracts  
+- On-chain data storage and retrieval  
 
 ---
 
