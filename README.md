@@ -18,7 +18,7 @@ Design and development of Web3 systems, combining smart contracts with robust of
 - Smart contract development in Solidity (EVM)
 - Contract testing and validation using Foundry
 - Development workflows and scripting with Hardhat
-- Blockchain interaction and event handling via ethers.js (frontend and Node.js environments)
+- Blockchain interaction and event handling via ethers.js
 - Off-chain execution and data processing using Node.js
 - Event indexing and persistence strategies (PostgreSQL)
 - Frontend integration with React for contract interaction
@@ -36,16 +36,12 @@ Modular DeFi system combining on-chain financial logic with off-chain orchestrat
 - Separation between canonical on-chain state and derived off-chain data  
 - Composable and deterministic system design  
 
----
-
 ### Protocol Engineering Lab
 Exploration of protocol primitives and blockchain system design.
 
 - State models, primitives, and contract patterns  
 - Data structures and low-level execution concepts  
 - Solidity experiments for protocol mechanics  
-
----
 
 ### Web3 Status Registry dApp
 Web3 application demonstrating contract interaction and state persistence.
