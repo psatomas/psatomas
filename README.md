@@ -56,17 +56,17 @@ Design and development of Web3 systems, combining smart contracts with robust of
 
 ## Stack
 
-**Blockchain**  
-Solidity • EVM • Rust • Solana • Foundry / Hardhat
+**Smart Contracts**  
+Solidity • Foundry • Hardhat  
 
-**Backend / Off-chain**  
-Node.js • TypeScript • ethers.js / web3.js
+**Backend**  
+Node.js • TypeScript • ethers.js • PostgreSQL  
 
-**Infra / DevOps**  
-Docker • Linux • Git
+**Frontend**  
+React • MetaMask  
 
-**Data**  
-PostgreSQL
+**Infrastructure**  
+Docker • Linux • Git  
 
 ---
 
