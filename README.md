@@ -30,7 +30,7 @@ Design and development of Web3 systems, combining smart contracts with robust of
 
 ## Projects
 
-### 🏗️ DeFi Micro SaaS
+### DeFi Micro SaaS
 Modular DeFi system combining on-chain financial logic with off-chain orchestration.
 
 - Vault systems and staking mechanisms  
@@ -40,7 +40,7 @@ Modular DeFi system combining on-chain financial logic with off-chain orchestrat
 
 ---
 
-### 🧠 Protocol Engineering Lab
+### Protocol Engineering Lab
 Exploration of protocol primitives and blockchain system design.
 
 - State models, primitives, and contract patterns  
@@ -49,19 +49,12 @@ Exploration of protocol primitives and blockchain system design.
 
 ---
 
-### ⛓️ Web3 Status Registry dApp
+### Web3 Status Registry dApp
 Web3 application demonstrating contract interaction and state persistence.
 
 - Wallet connection via MetaMask  
 - Read/write interaction with deployed contracts  
 - On-chain data storage and retrieval  
-
----
-
-## Currently Building
-
-- Vault + Indexer system (EVM)
-- Exploring Solana program architecture in Rust
 
 ---
 
