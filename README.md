@@ -3,8 +3,8 @@
 # Tomás Araújo
 
 <h3 align="center">
-Smart Contract & Web3 Backend Developer  
-(Solidity • Rust • Indexers)
+Web3 Engineer  
+(Solidity • TypeScript • Smart Contracts • Execution Layer)
 </h3>
 
 ---
