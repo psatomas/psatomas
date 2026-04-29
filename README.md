@@ -11,7 +11,7 @@ Web3 Engineer
 
 ## Focus
 
-Designing and implementing smart contract systems with supporting off-chain infrastructure (indexers, APIs, event pipelines), focusing on correctness, security, and state consistency.
+Design and development of Web3 systems, combining smart contracts with robust off-chain execution layers. Emphasis on reliable contract interaction, event-driven architectures, and clear separation between on-chain logic and off-chain processing.
 
 ---
 
