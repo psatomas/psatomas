@@ -55,7 +55,7 @@ Web3 application demonstrating contract interaction and state persistence.
 ## Stack
 
 **Smart Contracts**  
-Solidity • Foundry • Hardhat  
+Solidity • Foundry • Hardhat • OpenZeppelin
 
 **Backend**  
 Node.js • TypeScript • ethers.js • PostgreSQL  
