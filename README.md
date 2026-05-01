@@ -42,11 +42,11 @@ Design and development of Web3 systems, combining smart contracts with robust of
 - Solidity-based experiments to validate protocol mechanics, test edge cases, and observe how design choices impact execution semantics and system properties.
 
 ### Web3 Status Registry dApp
-Web3 application demonstrating contract interaction and state persistence.
 
-- Wallet connection via MetaMask  
-- Read/write interaction with deployed contracts  
-- On-chain data storage and retrieval  
+- Web3 application demonstrating end-to-end contract interaction and state persistence across client and blockchain layers.
+- Users connect via MetaMask and initiate transactions that interact with deployed contracts, enabling read and write operations on on-chain state.
+- Application state is synchronized through contract reads and transaction feedback, handling the asynchronous lifecycle (submission → confirmation) to maintain a consistent user experience.
+- On-chain data serves as the canonical source of truth, with the interface reflecting state changes as they are finalized on the network. 
 
 ---
 
