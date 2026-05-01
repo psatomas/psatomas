@@ -29,12 +29,10 @@ Design and development of Web3 systems, combining smart contracts with robust of
 ## Projects
 
 ### DeFi Micro SaaS
-Modular DeFi system combining on-chain financial logic with off-chain orchestration.
 
-- Vault systems and staking mechanisms  
-- Event-driven backend with indexing layer  
-- Separation between canonical on-chain state and derived off-chain data  
-- Composable and deterministic system design  
+- Modular DeFi system built on deterministic on-chain vault and staking primitives, combined with an event-driven off-chain execution layer, deployed across EVM-compatible L2 environments such as Arbitrum and Optimism.
+- Transactions emit events that drive execution pipelines, handling transaction lifecycle (pending → confirmed) and ensuring consistency between canonical on-chain state and derived data.
+- The system enforces a strict separation between canonical on-chain state and derived off-chain representations, explicitly accounting for L2-specific constraints such as batched execution, calldata-driven cost models, and delayed finality in state propagation.
 
 ### Protocol Engineering Lab
 Exploration of protocol primitives and blockchain system design.
