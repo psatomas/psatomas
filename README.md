@@ -35,11 +35,11 @@ Design and development of Web3 systems, combining smart contracts with robust of
 - The system enforces a strict separation between canonical on-chain state and derived off-chain representations, explicitly accounting for L2-specific constraints such as batched execution, calldata-driven cost models, and delayed finality in state propagation.
 
 ### Protocol Engineering Lab
-Exploration of protocol primitives and blockchain system design.
 
-- State models, primitives, and contract patterns  
-- Data structures and low-level execution concepts  
-- Solidity experiments for protocol mechanics  
+- Exploration of protocol primitives and blockchain system design, focused on understanding execution-layer mechanics and how low-level decisions shape higher-level behavior.
+- Study of state models, contract patterns, and system invariants, analyzing how protocols manage and transition state under deterministic execution constraints.
+- Investigation of data structures and low-level EVM execution concepts, including storage layout, memory behavior, and gas implications.
+- Solidity-based experiments to validate protocol mechanics, test edge cases, and observe how design choices impact execution semantics and system properties.
 
 ### Web3 Status Registry dApp
 Web3 application demonstrating contract interaction and state persistence.
