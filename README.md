@@ -58,16 +58,16 @@ Design and development of EVM-based Web3 systems, combining smart contracts with
 ## Stack
 
 **Smart Contracts**  
-Solidity • Foundry • Hardhat • OpenZeppelin
+Solidity • EVM • Foundry • Hardhat • OpenZeppelin
 
-**Backend**  
-Node.js • TypeScript • ethers.js • PostgreSQL  
+**Backend & Blockchain Infrastructure**  
+TypeScript • Node.js • ethers.js • PostgreSQL • Event Indexing
 
 **Frontend**  
-React • MetaMask  
+React • Next.js • Vite • MetaMask
 
 **Infrastructure**  
-Docker • Linux • Git  
+Docker • Linux • Git
 
 ---
 
