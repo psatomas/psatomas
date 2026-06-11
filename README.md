@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Web3 Engineer  
-(Solidity • TypeScript • Smart Contracts • Execution Layer)
+(Solidity • TypeScript • EVM • Protocol Architecture)
 </h3>
 
 ---
