@@ -28,25 +28,30 @@ Design and development of Web3 systems, combining smart contracts with robust of
 
 ## Projects
 
-### DeFi Micro SaaS
+### Provenance Registry — On-Chain Audit Provenance Layer
 
-- Modular DeFi system built on deterministic on-chain vault and staking primitives, combined with an event-driven off-chain execution layer, deployed across EVM-compatible L2 environments such as Arbitrum and Optimism.
-- Transactions emit events that drive execution pipelines, handling transaction lifecycle (pending → confirmed) and ensuring consistency between canonical on-chain state and derived data.
-- The system enforces a strict separation between canonical on-chain state and derived off-chain representations, explicitly accounting for L2-specific constraints such as batched execution, calldata-driven cost models, and delayed finality in state propagation.
+- Blockchain-based audit provenance system that makes protocol evolution and audit integrity cryptographically verifiable on Ethereum.
+- Implements an on-chain registry for protocol versions, audit metadata, commit hashes, auditor attribution, and timestamped records.
+- Uses `keccak256` hashing to create verifiable links between off-chain audit artifacts and immutable blockchain records.
+- Built a complete Web3 flow: MetaMask authentication → transaction signing → smart contract execution → blockchain state synchronization.
+- Smart contract deployed on Ethereum Sepolia with React + TypeScript frontend integration using ethers.js v6.
 
-### Protocol Engineering Lab
+**Stack:** Solidity • Hardhat • React • TypeScript • Vite • TailwindCSS • ethers.js • Ethereum Sepolia
 
-- Exploration of protocol primitives and blockchain system design, focused on understanding execution-layer mechanics and how low-level decisions shape higher-level behavior.
-- Study of state models, contract patterns, and system invariants, analyzing how protocols manage and transition state under deterministic execution constraints.
-- Investigation of data structures and low-level EVM execution concepts, including storage layout, memory behavior, and gas implications.
-- Solidity-based experiments to validate protocol mechanics, test edge cases, and observe how design choices impact execution semantics and system properties.
+### StakeVerse Protocol — Modular DeFi Governance System
 
-### Web3 Status Registry dApp
+- Decentralized protocol MVP combining ERC-20 token economics, NFT-based membership access, staking mechanisms, and DAO governance.
+- Designed modular smart contract architecture using OpenZeppelin standards:
+  - ERC-20 utility token
+  - ERC-721 membership NFT
+  - Staking contract with reward mechanisms
+  - DAO governance layer
+  - Chainlink-compatible price oracle integration
+- Developed comprehensive testing infrastructure using Hardhat v3, Mocha, and Chai, achieving full contract coverage.
+- Validated security using static analysis and symbolic execution tools, including Slither and Mythril.
+- Deployed and tested on Ethereum Sepolia with frontend wallet integration.
 
-- Web3 application demonstrating end-to-end contract interaction and state persistence across client and blockchain layers.
-- Users connect via MetaMask and initiate transactions that interact with deployed contracts, enabling read and write operations on on-chain state.
-- Application state is synchronized through contract reads and transaction feedback, handling the asynchronous lifecycle (submission → confirmation) to maintain a consistent user experience.
-- On-chain data serves as the canonical source of truth, with the interface reflecting state changes as they are finalized on the network. 
+**Stack:** Solidity • Hardhat v3 • OpenZeppelin • Chainlink • React • TypeScript • TailwindCSS • Slither • Mythril
 
 ---
 
