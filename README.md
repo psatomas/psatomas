@@ -16,13 +16,13 @@ Design and development of EVM-based Web3 systems, combining smart contracts with
 ## Areas of Work
 
 - Smart contract development in Solidity (EVM)
-- Contract testing and validation using Foundry
-- Development workflows and scripting with Hardhat
-- Blockchain interaction and event handling via ethers.js
-- Off-chain execution and data processing using Node.js
-- Event indexing and persistence strategies (PostgreSQL)
-- Frontend integration with React for contract interaction
-- Wallet-based authentication and transaction flow with MetaMask
+- DeFi protocol design and financial primitive development
+- Contract testing, validation, and security analysis using Foundry and Hardhat
+- On-chain state modeling, invariants, and gas-aware architecture
+- Backend infrastructure for blockchain systems using Node.js and TypeScript
+- Event-driven architectures, indexing pipelines, and derived state management
+- Blockchain integration using ethers.js and wallet-based transaction flows
+- Frontend interfaces for decentralized applications with React
 
 ---
 
