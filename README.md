@@ -9,7 +9,7 @@ Web3 Engineer
 
 ## Focus
 
-Design and development of Web3 systems, combining smart contracts with robust off-chain execution layers. Emphasis on reliable contract interaction, event-driven architectures, and clear separation between on-chain logic and off-chain processing.
+Design and development of EVM-based Web3 systems, combining smart contracts with reliable off-chain infrastructure. Focused on protocol architecture, deterministic state management, event-driven systems, and clear separation between canonical on-chain state and derived application data.
 
 ---
 
