@@ -55,19 +55,22 @@ Design and development of EVM-based Web3 systems, combining smart contracts with
 
 ---
 
-## Stack
+## Expertise
 
-**Smart Contracts**  
+**Protocol Engineering**  
+Protocol Architecture • System Design • Financial Primitives • Token Economics • Governance
+
+**Smart Contract Development**  
 Solidity • EVM • Foundry • Hardhat • OpenZeppelin
 
-**Backend & Blockchain Infrastructure**  
-TypeScript • Node.js • ethers.js • PostgreSQL • Event Indexing
+**Security & Verification**  
+Fuzz Testing • Invariant Testing • Static Analysis • Slither • Mythril
 
-**Frontend**  
-React • Next.js • Vite • MetaMask
+**Distributed Systems**  
+State Machines • Deterministic Execution • Consensus • Fault Tolerance • Scalability
 
-**Infrastructure**  
-Docker • Linux • Git
+**Engineering Toolkit**  
+TypeScript • Node.js • ethers.js • React • Next.js • Wallet Integration • Linux • Git • Docker • CI/CD
 
 ---
 
