@@ -7,9 +7,13 @@ Web3 Engineer
 
 ---
 
-## Focus
+# About
 
-Design and development of EVM-based Web3 systems, combining smart contracts with reliable off-chain infrastructure. Focused on protocol architecture, deterministic state management, event-driven systems, and clear separation between canonical on-chain state and derived application data.
+Blockchain Engineer focused on building EVM-based systems that combine deterministic smart contract execution with reliable off-chain infrastructure.
+
+My work focuses on protocol architecture, state modeling, event-driven systems, and designing clear boundaries between canonical blockchain state and derived application data.
+
+Interested in building decentralized systems with strong engineering foundations: modular architectures, predictable execution flows, security-oriented development, and scalable blockchain infrastructure.
 
 ---
 
