@@ -79,33 +79,92 @@ Interested in building decentralized systems with strong engineering foundations
 
 ---
 
-## Projects
+# Projects
 
-### Provenance Registry — On-Chain Audit Provenance Layer
+<details open>
+<summary><b>Execution Kernel Protocol</b> — Modular Blockchain Execution Infrastructure</summary>
 
-- Blockchain-based audit provenance system that makes protocol evolution and audit integrity cryptographically verifiable on Ethereum.
-- Implements an on-chain registry for protocol versions, audit metadata, commit hashes, auditor attribution, and timestamped records.
-- Uses `keccak256` hashing to create verifiable links between off-chain audit artifacts and immutable blockchain records.
-- Built a complete Web3 flow: MetaMask authentication → transaction signing → smart contract execution → blockchain state synchronization.
-- Smart contract deployed on Ethereum Sepolia with React + TypeScript frontend integration using ethers.js v6.
+<br/>
 
-**Stack:** Solidity • Hardhat • React • TypeScript • Vite • TailwindCSS • ethers.js • Ethereum Sepolia
+A protocol architecture project exploring intent-based execution systems and modular execution layers.
 
-### StakeVerse Protocol — Modular DeFi Governance System
+The project focuses on designing infrastructure that separates execution logic from application interfaces while maintaining deterministic state transitions and extensible protocol components.
 
-- Decentralized protocol MVP combining ERC-20 token economics, NFT-based membership access, staking mechanisms, and DAO governance.
-- Designed modular smart contract architecture using OpenZeppelin standards:
-  - ERC-20 utility token
-  - ERC-721 membership NFT
-  - Staking contract with reward mechanisms
-  - DAO governance layer
-  - Chainlink-compatible price oracle integration
-- Developed comprehensive testing infrastructure using Hardhat v3, Mocha, and Chai, achieving full contract coverage.
-- Validated security using static analysis and symbolic execution tools, including Slither and Mythril.
-- Deployed and tested on Ethereum Sepolia with frontend wallet integration.
+### Architecture Concepts
 
-**Stack:** Solidity • Hardhat v3 • OpenZeppelin • Chainlink • React • TypeScript • TailwindCSS • Slither • Mythril
+- Modular execution engine
+- Pluggable execution modules
+- Intent-based execution flows
+- On-chain validation and configuration
+- SDK-oriented integration layer
+- Separation between canonical state and execution services
 
+**Stack**
+
+`Solidity` • `Foundry` • `TypeScript` • `Node.js` • `ethers.js`
+
+</details>
+
+---
+
+<details>
+<summary><b>Provenance Registry</b> — On-Chain Audit Provenance Layer</summary>
+
+<br/>
+
+A blockchain-based provenance system designed to make software evolution and audit history cryptographically verifiable.
+
+The protocol creates immutable references between off-chain artifacts and blockchain records using cryptographic commitments.
+
+### Features
+
+- On-chain registry for protocol versions
+- Audit metadata storage
+- Commit hash verification
+- Timestamped blockchain records
+- Cryptographic linking using `keccak256`
+
+### Web3 Flow
+
+`User → Wallet Authentication → Transaction Signing → Smart Contract Execution → Blockchain State Update → Frontend Synchronization`
+
+**Stack**
+
+`Solidity` • `Hardhat` • `React` • `TypeScript` • `Vite` • `TailwindCSS` • `ethers.js` • `Ethereum Sepolia`
+
+</details>
+
+---
+
+<details>
+<summary><b>StakeVerse Protocol</b> — Modular DeFi Governance System</summary>
+
+<br/>
+
+A decentralized protocol MVP combining token economics, membership systems, staking mechanisms, and governance architecture.
+
+### Components
+
+- ERC-20 utility token
+- ERC-721 membership NFT
+- Staking mechanisms
+- Reward distribution logic
+- DAO governance layer
+- Oracle integration
+
+### Engineering
+
+- Modular smart contract architecture
+- OpenZeppelin standards
+- Automated contract testing
+- Security analysis workflows
+- Frontend wallet integration
+
+**Stack**
+
+`Solidity` • `Hardhat` • `OpenZeppelin` • `Chainlink` • `React` • `TypeScript` • `Slither` • `Mythril`
+
+</details>
 ---
 
 ## Expertise
