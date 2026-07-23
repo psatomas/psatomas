@@ -12,13 +12,13 @@ Designing reliable blockchain systems through smart contracts, backend infrastru
 
 ---
 
-# About
+## About
 
-Blockchain Engineer focused on building EVM-based systems that combine deterministic smart contract execution with reliable off-chain infrastructure.
+Blockchain Engineer focused on designing reliable EVM-based systems that combine smart contracts with backend infrastructure.
 
-My work focuses on protocol architecture, state modeling, event-driven systems, and designing clear boundaries between canonical blockchain state and derived application data.
+My work centers on protocol architecture, deterministic execution, state modeling, and event-driven systems, with an emphasis on clear boundaries between canonical on-chain state and derived application data.
 
-Interested in building decentralized systems with strong engineering foundations: modular architectures, predictable execution flows, security-oriented development, and scalable blockchain infrastructure.
+I enjoy building modular blockchain systems that prioritize composability, security, and long-term maintainability.
 
 ---
 
