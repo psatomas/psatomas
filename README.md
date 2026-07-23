@@ -35,13 +35,13 @@ I enjoy building modular blockchain systems that prioritize composability, secur
 
 ---
 
-## Smart Contract Development
+## Smart Contracts
 
 - Solidity development for EVM-compatible networks
 - Smart contract architecture and composability
 - Gas-aware contract design
 - Contract testing with Foundry and Hardhat
-- Security-oriented development
+- Security-conscious development
 - OpenZeppelin-based implementations
 
 ---
@@ -63,13 +63,15 @@ I enjoy building modular blockchain systems that prioritize composability, secur
 - Fuzz testing
 - Static analysis
 - Smart contract validation workflows
-- Security tooling:
-  - Slither
-  - Mythril
+
+**Tooling**
+
+- Slither
+- Mythril
 
 ---
 
-## Application Development
+## Application Layer
 
 - Web3 frontend applications
 - Wallet-based authentication flows
