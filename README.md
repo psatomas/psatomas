@@ -206,7 +206,18 @@ A decentralized protocol MVP combining token economics, membership systems, stak
 
 ---
 
-# Contact
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=psatomas@gmail.com)
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/psatomas">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:psatomas@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
