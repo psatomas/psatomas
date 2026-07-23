@@ -195,22 +195,14 @@ A decentralized protocol MVP combining token economics, membership systems, stak
 
 ---
 
-## Expertise
+# Engineering Toolkit
 
-**Protocol Engineering**  
-Protocol Architecture • System Design • Financial Primitives • Token Economics • Governance
-
-**Smart Contract Development**  
-Solidity • EVM • Foundry • Hardhat • OpenZeppelin
-
-**Security & Verification**  
-Fuzz Testing • Invariant Testing • Static Analysis • Slither • Mythril
-
-**Distributed Systems**  
-State Machines • Deterministic Execution • Consensus • Fault Tolerance • Scalability
-
-**Engineering Toolkit**  
-TypeScript • Node.js • ethers.js • React • Next.js • Wallet Integration • Linux • Git • Docker • CI/CD
+| Domain | Technologies |
+|---------|--------------|
+| Smart Contracts | Solidity, Foundry, Hardhat, OpenZeppelin |
+| Blockchain Infrastructure | TypeScript, Node.js, ethers.js, Event-Driven Systems |
+| Frontend | React, Next.js, Vite, Wallet Integration |
+| Tooling | Linux, Git, Docker, CI/CD |
 
 ---
 
