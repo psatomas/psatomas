@@ -1,9 +1,12 @@
-# Tomás Araújo
+<h1 align="center">Tomás Araújo</h1>
 
 <h3 align="center">
-Blockchain Engineer  
-(Solidity • TypeScript • EVM • Protocol Architecture)
+Blockchain Engineer
 </h3>
+
+<p align="center">
+Solidity • TypeScript • EVM • Protocol Architecture
+</p>
 
 <p align="center">
 Designing reliable blockchain systems through smart contracts, backend infrastructure, and protocol-oriented architectures.
@@ -18,11 +21,11 @@ Blockchain Engineer focused on designing reliable EVM-based systems that combine
 
 My work centers on protocol architecture, deterministic execution, state modeling, and event-driven systems, with an emphasis on clear boundaries between canonical on-chain state and derived application data.
 
-I enjoy building modular blockchain systems that prioritize composability, security, and long-term maintainability.
+I build modular blockchain systems that prioritize composability, security, and long-term maintainability.
 
 ---
 
-# Technical Focus
+## Technical Focus
 
 ## Protocol Engineering
 
@@ -81,14 +84,14 @@ I enjoy building modular blockchain systems that prioritize composability, secur
 
 ---
 
-# Projects
+## Projects
 
 <details open>
 <summary><b>Execution Kernel Protocol</b> — Modular Blockchain Execution Infrastructure</summary>
 
 <br/>
 
-An experimental blockchain infrastructure project exploring intent-based execution systems and modular protocol architecture.
+A modular blockchain infrastructure project exploring intent-based execution systems and protocol-oriented execution architecture.
 
 The project investigates how execution logic can be separated from application interfaces while maintaining deterministic state transitions and extensible protocol components.
 
@@ -170,7 +173,7 @@ A decentralized protocol MVP combining token economics, membership systems, stak
 
 ---
 
-# Engineering Principles
+## Engineering Principles
 
 ## Architecture
 
@@ -191,7 +194,7 @@ A decentralized protocol MVP combining token economics, membership systems, stak
 
 ---
 
-# Engineering Toolkit
+## Engineering Toolkit
 
 | Domain | Technologies |
 |---------|--------------|
@@ -199,8 +202,6 @@ A decentralized protocol MVP combining token economics, membership systems, stak
 | Blockchain Infrastructure | TypeScript, Node.js, ethers.js, Event-Driven Systems |
 | Frontend | React, Next.js, Vite, Wallet Integration |
 | Tooling | Linux, Git, Docker, CI/CD |
-
----
 
 ---
 
