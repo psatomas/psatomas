@@ -88,11 +88,11 @@ I enjoy building modular blockchain systems that prioritize composability, secur
 
 <br/>
 
-A protocol architecture project exploring intent-based execution systems and modular execution layers.
+An experimental blockchain infrastructure project exploring intent-based execution systems and modular protocol architecture.
 
-The project focuses on designing infrastructure that separates execution logic from application interfaces while maintaining deterministic state transitions and extensible protocol components.
+The project investigates how execution logic can be separated from application interfaces while maintaining deterministic state transitions and extensible protocol components.
 
-### Architecture Concepts
+### Architecture
 
 - Modular execution engine
 - Pluggable execution modules
@@ -116,11 +116,11 @@ The project focuses on designing infrastructure that separates execution logic f
 
 A blockchain-based provenance system designed to make software evolution and audit history cryptographically verifiable.
 
-The protocol creates immutable references between off-chain artifacts and blockchain records using cryptographic commitments.
+The system creates immutable references between off-chain artifacts and blockchain records using cryptographic commitments.
 
 ### Features
 
-- On-chain registry for protocol versions
+- On-chain protocol version registry
 - Audit metadata storage
 - Commit hash verification
 - Timestamped blockchain records
@@ -150,23 +150,10 @@ A decentralized protocol MVP combining token economics, membership systems, stak
 - ERC-20 utility token
 - ERC-721 membership NFT
 - Staking mechanisms
-- Reward distribution logic
+- Reward distribution
 - DAO governance layer
 - Oracle integration
 
-### Engineering
-
-- Modular smart contract architecture
-- OpenZeppelin standards
-- Automated contract testing
-- Security analysis workflows
-- Frontend wallet integration
-
-**Stack**
-
-`Solidity` • `Hardhat` • `OpenZeppelin` • `Chainlink` • `React` • `TypeScript` • `Slither` • `Mythril`
-
-</details>
 ---
 
 # Engineering Principles
