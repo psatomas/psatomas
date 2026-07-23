@@ -8,16 +8,11 @@ Blockchain Engineer
 Solidity • TypeScript • EVM • Protocol Architecture
 </p>
 
-<p align="center">
-Designing reliable blockchain systems through smart contracts, backend infrastructure, and protocol-oriented architectures.
-</p>
-
-
 ---
 
 ## About
 
-Blockchain Engineer focused on designing reliable EVM-based systems that combine smart contracts with backend infrastructure.
+I design reliable EVM-based systems by combining smart contracts with backend infrastructure.
 
 My work centers on protocol architecture, deterministic execution, state modeling, and event-driven systems, with an emphasis on clear boundaries between canonical on-chain state and derived application data.
 
@@ -27,18 +22,18 @@ I build modular blockchain systems that prioritize composability, security, and 
 
 ## Technical Focus
 
-## Protocol Engineering
+### Protocol Engineering
 
 - Protocol architecture and system design
 - Deterministic execution models
 - State machines and state transitions
-- Financial primitives and DeFi mechanisms
+- Financial primitives and protocol mechanisms
 - Modular protocol components
 - Separation between protocol state and application layers
 
 ---
 
-## Smart Contracts
+### Smart Contracts
 
 - Solidity development for EVM-compatible networks
 - Smart contract architecture and composability
@@ -49,7 +44,7 @@ I build modular blockchain systems that prioritize composability, security, and 
 
 ---
 
-## Blockchain Infrastructure
+### Blockchain Infrastructure
 
 - Event-driven blockchain architectures
 - Blockchain indexing pipelines
@@ -60,21 +55,18 @@ I build modular blockchain systems that prioritize composability, security, and 
 
 ---
 
-## Security & Verification
+### Security & Verification
 
 - Invariant-driven development
 - Fuzz testing
 - Static analysis
 - Smart contract validation workflows
 
-**Tooling**
-
-- Slither
-- Mythril
+Tooling: Slither • Mythril
 
 ---
 
-## Application Layer
+### Application Layer
 
 - Web3 frontend applications
 - Wallet-based authentication flows
@@ -91,7 +83,7 @@ I build modular blockchain systems that prioritize composability, security, and 
 
 <br/>
 
-A modular blockchain infrastructure project exploring intent-based execution systems and protocol-oriented execution architecture.
+A modular blockchain infrastructure project exploring intent-based execution systems and extensible protocol architectures.
 
 The project investigates how execution logic can be separated from application interfaces while maintaining deterministic state transitions and extensible protocol components.
 
@@ -175,7 +167,7 @@ A decentralized protocol MVP combining token economics, membership systems, stak
 
 ## Engineering Principles
 
-## Architecture
+### Architecture
 
 - Deterministic systems
 - Explicit state transitions
@@ -185,7 +177,7 @@ A decentralized protocol MVP combining token economics, membership systems, stak
 
 ---
 
-## Reliability
+### Reliability
 
 - Event-driven architectures
 - Data consistency
