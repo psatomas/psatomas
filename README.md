@@ -1,9 +1,14 @@
 # Tomás Araújo
 
 <h3 align="center">
-Web3 Engineer  
+Blockchain Engineer  
 (Solidity • TypeScript • EVM • Protocol Architecture)
 </h3>
+
+<p align="center">
+Designing reliable blockchain systems through smart contracts, backend infrastructure, and protocol-oriented architectures.
+</p>
+
 
 ---
 
