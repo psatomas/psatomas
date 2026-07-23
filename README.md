@@ -167,6 +167,34 @@ A decentralized protocol MVP combining token economics, membership systems, stak
 </details>
 ---
 
+# Engineering Principles
+
+## Protocol Design
+
+- Deterministic systems
+- Explicit state transitions
+- Modular architecture
+- Composable components
+- Clear system boundaries
+
+## Distributed Systems
+
+- Event-driven architectures
+- Data consistency
+- Fault tolerance concepts
+- State synchronization
+- Scalable backend systems
+
+## Blockchain Development
+
+- EVM architecture
+- Smart contract lifecycle
+- Transaction execution model
+- On-chain/off-chain communication
+- Decentralized application design
+
+---
+
 ## Expertise
 
 **Protocol Engineering**  
