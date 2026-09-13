@@ -8,6 +8,10 @@ Blockchain Engineer
 Solidity • TypeScript • EVM • Protocol Architecture
 </p>
 
+<p align="center">
+<a href="https://psatomas.com">Portfolio</a> · <a href="https://linkedin.com/in/psatomas">LinkedIn</a>
+</p>
+
 ---
 
 ## About
@@ -209,12 +213,16 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 
 <p align="center">
 
+<a href="https://psatomas.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge">
+</a>
+
 <a href="https://linkedin.com/in/psatomas">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:psatomas@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-555555?style=for-the-badge">
 </a>
 
 </p>
