@@ -101,6 +101,8 @@ Competing execution modules are simulated and scored through a deterministic `Sc
 
 `Solidity` • `Foundry` • `TypeScript` • `Node.js` • `viem` • `wagmi` • `Next.js` • `Cloudflare Workers`
 
+[Live App](https://exekpro.com) · [Repository](https://github.com/psatomas/ExeKPro)
+
 </details>
 
 ---
@@ -129,6 +131,8 @@ The system creates immutable, publicly verifiable references between off-chain a
 **Stack**
 
 `Solidity` • `Hardhat` • `React` • `TypeScript` • `Vite` • `TailwindCSS` • `ethers.js` • `Ethereum Sepolia`
+
+[Live App (Sepolia)](https://protocol-provenance-registry.vercel.app) · [Repository](https://github.com/psatomas/ProvenanceRegistry)
 
 </details>
 
@@ -162,6 +166,8 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 **Stack**
 
 `Solidity` • `Hardhat` • `OpenZeppelin` • `Chainlink` • `React` • `TypeScript` • `Vite` • `TailwindCSS` • `ethers.js v6` • `Slither` • `Mythril`
+
+[Live App (Sepolia)](https://stakeverse.vercel.app/) · [Repository](https://github.com/psatomas/StakeVerse)
 
 </details>
 
