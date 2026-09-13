@@ -9,7 +9,7 @@ Solidity • TypeScript • EVM • Protocol Architecture
 </p>
 
 <p align="center">
-<a href="https://psatomas.com">Portfolio</a> · <a href="https://linkedin.com/in/psatomas">LinkedIn</a>
+<a href="https://psatomas.com">Portfolio</a>
 </p>
 
 ---
