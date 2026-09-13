@@ -110,9 +110,9 @@ Competing execution modules are simulated and scored through a deterministic `Sc
 
 <br/>
 
-A blockchain-based provenance system designed to make software evolution and audit history cryptographically verifiable.
+An on-chain audit provenance registry for versioned protocol records, making document and artifact integrity cryptographically verifiable.
 
-The system creates immutable references between off-chain artifacts and blockchain records using cryptographic commitments.
+The system creates immutable, publicly verifiable references between off-chain artifacts and on-chain records using `keccak256` cryptographic commitments.
 
 ### Features
 
