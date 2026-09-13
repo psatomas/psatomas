@@ -135,20 +135,21 @@ The system creates immutable, publicly verifiable references between off-chain a
 ---
 
 <details>
-<summary><b>StakeVerse Protocol</b> — Modular DeFi Governance System</summary>
+<summary><b>StakeVerse</b> — DAO-Governed Staking and Governance Protocol</summary>
 
 <br/>
 
-A decentralized protocol MVP combining token economics, membership systems, staking mechanisms, and governance architecture.
+DAO-governed staking and governance protocol with historical ERC20Votes voting power, protected reward accounting, and on-chain execution.
 
 ### Components
 
+- DAO governance with on-chain proposal execution
+- Historical, checkpointed voting power via ERC20Votes delegation
+- Protected reward accounting
+- Fixed-rate, time-locked staking and reward distribution
+- Chainlink oracle integration for price data
 - ERC-20 utility token
-- ERC-721 membership NFT
-- Staking mechanisms
-- Reward distribution
-- DAO governance layer
-- Oracle integration
+- ERC-721 membership NFT (secondary, non-gating credential)
 
 ### Engineering
 
@@ -160,7 +161,7 @@ A decentralized protocol MVP combining token economics, membership systems, stak
 
 **Stack**
 
-`Solidity` • `Hardhat` • `OpenZeppelin` • `Chainlink` • `React` • `TypeScript` • `Slither` • `Mythril`
+`Solidity` • `Hardhat` • `OpenZeppelin` • `Chainlink` • `React` • `TypeScript` • `Vite` • `TailwindCSS` • `ethers.js v6` • `Slither` • `Mythril`
 
 </details>
 
