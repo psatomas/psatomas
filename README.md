@@ -79,26 +79,27 @@ Tooling: Slither • Mythril
 ## Projects
 
 <details open>
-<summary><b>Execution Kernel Protocol</b> — Modular Blockchain Execution Infrastructure</summary>
+<summary><b>ExeKPro</b> — Execution-Selection Protocol for Web3 Intents</summary>
 
 <br/>
 
-A modular blockchain infrastructure project exploring intent-based execution systems and extensible protocol architectures.
+Execution-selection protocol for Web3 intents with modular strategies and deterministic scoring.
 
-The project investigates how execution logic can be separated from application interfaces while maintaining deterministic state transitions and extensible protocol components.
+Competing execution modules are simulated and scored through a deterministic `ScorePolicy`, with the highest-scoring module executing on-chain through the protocol's `ExecutionEngine` kernel.
 
 ### Architecture
 
-- Modular execution engine
-- Pluggable execution modules
-- Intent-based execution flows
-- On-chain validation and configuration
-- SDK-oriented integration layer
-- Separation between canonical state and execution services
+- Intent layer for standardized, owner-registered intent types
+- On-chain `ExecutionEngine` kernel for scoring and executing candidate modules
+- Modular execution modules competing for selection
+- Deterministic scoring via `ScorePolicy`
+- Observability and indexing layer for execution performance
+- SDK layer for developer integration
+- Separation between canonical protocol state and supporting execution/application services
 
 **Stack**
 
-`Solidity` • `Foundry` • `TypeScript` • `Node.js` • `ethers.js`
+`Solidity` • `Foundry` • `TypeScript` • `Node.js` • `viem` • `wagmi` • `Next.js` • `Cloudflare Workers`
 
 </details>
 
