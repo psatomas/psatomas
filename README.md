@@ -51,7 +51,7 @@ I treat protocol engineering as systems engineering, emphasizing deterministic b
 - Event-driven indexing and derived-state systems
 - Off-chain services connected to canonical protocol state
 - Transaction and execution lifecycle infrastructure
-- TypeScript and Node.js backend systems
+- TypeScript backend and infrastructure systems
 
 ---
 
