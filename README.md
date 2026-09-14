@@ -152,27 +152,6 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 
 ---
 
-## Engineering Principles
-
-### Architecture
-
-- Deterministic systems
-- Explicit state transitions
-- Modular architecture
-- Composable components
-- Clear system boundaries
-
----
-
-### Reliability
-
-- Event-driven architectures
-- Data consistency
-- Predictable execution
-- Security-first design
-
----
-
 ## Engineering Toolkit
 
 | Domain | Technologies |
