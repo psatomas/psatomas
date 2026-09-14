@@ -105,7 +105,7 @@ Competing execution modules are simulated and scored through a deterministic `Sc
 
 `Solidity` • `Foundry` • `TypeScript` • `Node.js` • `viem` • `wagmi` • `Next.js` • `Cloudflare Workers`
 
-[Live App](https://exekpro.com) · [Repository](https://github.com/psatomas/ExeKPro)
+[Protocol Console](https://exekpro.com) · [Repository](https://github.com/psatomas/ExeKPro)
 
 </details>
 
@@ -169,7 +169,7 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 
 **Stack**
 
-`Solidity` • `Hardhat` • `OpenZeppelin` • `Chainlink` • `React` • `TypeScript` • `Vite` • `TailwindCSS` • `ethers.js v6` • `Slither` • `Mythril`
+`Solidity` • `Hardhat` • `OpenZeppelin` • `Chainlink` • `React` • `TypeScript` • `Vite` • `TailwindCSS` • `ethers.js v6`
 
 [Live App (Sepolia)](https://stakeverse.vercel.app/) · [Repository](https://github.com/psatomas/StakeVerse)
 
