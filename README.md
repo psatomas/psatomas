@@ -28,55 +28,30 @@ I treat protocol engineering as systems engineering, emphasizing deterministic b
 
 ### Protocol Engineering
 
-- Protocol architecture and system design
-- Deterministic execution models
-- State machines and state transitions
-- Financial primitives and protocol mechanisms
-- Modular protocol components
-- Separation between protocol state and application layers
+- Protocol architecture and state-transition systems
+- Deterministic execution and execution mechanisms
+- Canonical state, derived state, and trust boundaries
+- Financial and governance mechanisms
+- Modular and composable protocol architecture
 
 ---
 
 ### Smart Contracts
 
-- Solidity development for EVM-compatible networks
-- Smart contract architecture and composability
-- Gas-aware contract design
-- Contract testing with Foundry and Hardhat
-- Security-conscious development
+- Solidity architecture for EVM protocols
+- Contract composition and protocol mechanisms
+- Foundry and Hardhat testing
+- Fuzz testing of protocol logic
 - OpenZeppelin-based implementations
 
 ---
 
 ### Blockchain Infrastructure
 
-- Event-driven blockchain architectures
-- Blockchain indexing pipelines
-- Derived state management
-- Off-chain services connected to smart contracts
-- Transaction lifecycle management
-- Backend infrastructure using TypeScript and Node.js
-
----
-
-### Security & Verification
-
-- Invariant-driven development
-- Fuzz testing
-- Static analysis
-- Smart contract validation workflows
-
-Tooling: Slither • Mythril
-
----
-
-### Application Layer
-
-- Web3 frontend applications
-- Wallet-based authentication flows
-- Blockchain transaction interfaces
-- React and Next.js applications
-- ethers.js integrations
+- Event-driven indexing and derived-state systems
+- Off-chain services connected to canonical protocol state
+- Transaction and execution lifecycle infrastructure
+- TypeScript and Node.js backend systems
 
 ---
 
