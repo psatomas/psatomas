@@ -16,11 +16,11 @@ Solidity • TypeScript • EVM • Protocol Architecture
 
 ## About
 
-I design reliable EVM-based systems by combining smart contracts with backend infrastructure.
+I build EVM protocols and supporting infrastructure across execution, state, governance, indexing, SDKs, and application-facing services.
 
-My work centers on protocol architecture, deterministic execution, state modeling, and event-driven systems, with an emphasis on clear boundaries between canonical on-chain state and derived application data.
+I design around protocol guarantees: which state must be canonical, which data can be derived, how execution is constrained and verified, and where trust boundaries exist between on-chain and off-chain components.
 
-I build modular blockchain systems that prioritize composability, security, and long-term maintainability.
+I treat protocol engineering as systems engineering, emphasizing deterministic behavior, explicit state transitions, modular boundaries, observability, and security at the architectural level.
 
 ---
 
