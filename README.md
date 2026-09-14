@@ -157,7 +157,7 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 | Domain | Technologies |
 |---------|--------------|
 | Smart Contracts | Solidity, Foundry, Hardhat, OpenZeppelin |
-| Blockchain Infrastructure | TypeScript, Node.js, viem, Event-Driven Systems |
+| Blockchain Infrastructure | TypeScript, viem, Event-Driven Systems |
 | Frontend | React, Next.js, Vite, ethers.js |
 | Agent Orchestration | Workflow Engine, Claude Code, Codex CLI, Git Worktrees |
 | Tooling | Linux, Git, Docker, CI/CD |
