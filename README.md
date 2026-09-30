@@ -22,7 +22,7 @@ I design around protocol guarantees: which state must be canonical, which data c
 
 I treat protocol engineering as systems engineering, emphasizing deterministic behavior, explicit state transitions, modular boundaries, observability, and security at the architectural level.
 
-I am extending this systems-oriented approach into AI engineering, focusing on agent orchestration, context management, tool integration, stateful workflows, and verifiable execution boundaries.
+I am extending this systems-oriented approach into AI engineering, focusing on agent orchestration, context management, tool integration, stateful workflows, and reliable execution boundaries.
 
 ---
 
@@ -63,8 +63,7 @@ I am extending this systems-oriented approach into AI engineering, focusing on a
 - Context management and tool integration
 - LLM application architecture
 - MCP-based tool interfaces
-- Multi-agent coordination and workflow design
-- Human-in-the-loop execution and verification
+- Workflow design and execution control
 
 ---
 
