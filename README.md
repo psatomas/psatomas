@@ -22,6 +22,8 @@ I design around protocol guarantees: which state must be canonical, which data c
 
 I treat protocol engineering as systems engineering, emphasizing deterministic behavior, explicit state transitions, modular boundaries, observability, and security at the architectural level.
 
+I am extending this systems-oriented approach into AI engineering, focusing on agent orchestration, context management, tool integration, stateful workflows, and verifiable execution boundaries.
+
 ---
 
 ## Technical Focus
