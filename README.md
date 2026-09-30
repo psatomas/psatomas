@@ -179,7 +179,7 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
-<a href="https://psatomas.com"><img src="https://raw.githubusercontent.com/psatomas/psatomas.com/main/src/assets/psat-mark-footer.png" height="22" alt="PSAT"><img src="https://img.shields.io/badge/PSATOMAS-000000?style=for-the-badge" height="28" alt="PSATOMAS"></a>
+<a href="https://psatomas.com"><img src="assets/psat-mark-badge.png" height="28" alt="PSAT"><img src="https://img.shields.io/badge/PSATOMAS-000000?style=for-the-badge" height="28" alt="PSATOMAS"></a>
 <a href="https://linkedin.com/in/psatomas"><img src="assets/linkedin-badge.svg" height="28" alt="LinkedIn"></a>
 <a href="mailto:psatomas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
 </p>
