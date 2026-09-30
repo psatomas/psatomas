@@ -5,7 +5,7 @@ Blockchain Engineer
 </h3>
 
 <p align="center">
-Solidity • TypeScript • EVM • Protocol Architecture
+EVM • Protocol Architecture • AI Systems • Agent Engineering
 </p>
 
 <p align="center">
