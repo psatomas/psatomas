@@ -5,7 +5,7 @@ Protocol Engineer · EVM & AI Systems
 </h3>
 
 <p align="center">
-Protocol Architecture • Distributed Systems • On-Chain Systems • AI Agents
+Protocol Architecture • Distributed Systems • On-Chain Systems • Autonomous Economic Systems
 </p>
 
 <p align="center">
