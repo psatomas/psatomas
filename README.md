@@ -9,7 +9,7 @@ Protocol Architecture • Distributed Systems • On-Chain Systems • Autonomou
 </p>
 
 <p align="center">
-<a href="https://psatomas.com">psatomas.com</a>
+<a href="https://psatomas.com">Meet My Background on psatomas.com</a>
 </p>
 
 ---
