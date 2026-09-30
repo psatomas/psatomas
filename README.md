@@ -57,6 +57,17 @@ I am extending this systems-oriented approach into AI engineering, focusing on a
 
 ---
 
+### AI Systems & Agent Engineering
+
+- Agent orchestration and stateful workflows
+- Context management and tool integration
+- LLM application architecture
+- MCP-based tool interfaces
+- Multi-agent coordination and workflow design
+- Human-in-the-loop execution and verification
+
+---
+
 ## Projects
 
 <details open>
