@@ -1,11 +1,11 @@
 <h1 align="center">Tomás Araújo</h1>
 
 <h3 align="center">
-Blockchain Engineer
+Protocol Engineer · EVM & AI Systems
 </h3>
 
 <p align="center">
-Solidity • TypeScript • EVM • Protocol Architecture
+Protocol Architecture • Distributed Systems • On-Chain Systems • AI Agents
 </p>
 
 <p align="center">
@@ -21,6 +21,8 @@ I build EVM protocols and supporting infrastructure across execution, state, gov
 I design around protocol guarantees: which state must be canonical, which data can be derived, how execution is constrained and verified, and where trust boundaries exist between on-chain and off-chain components.
 
 I treat protocol engineering as systems engineering, emphasizing deterministic behavior, explicit state transitions, modular boundaries, observability, and security at the architectural level.
+
+I am extending this systems-oriented approach into AI engineering, focusing on agent orchestration, context management, tool integration, stateful workflows, and reliable execution boundaries.
 
 ---
 
@@ -52,6 +54,16 @@ I treat protocol engineering as systems engineering, emphasizing deterministic b
 - Off-chain services connected to canonical protocol state
 - Transaction and execution lifecycle infrastructure
 - TypeScript and Node.js backend systems
+
+---
+
+### AI Systems & Agent Engineering
+
+- Agent orchestration and stateful workflows
+- Context management and tool integration
+- LLM application architecture
+- MCP-based tool interfaces
+- Workflow design and execution control
 
 ---
 
@@ -159,7 +171,7 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 | Smart Contracts | Solidity, Foundry, Hardhat, OpenZeppelin |
 | Blockchain Infrastructure | TypeScript, Node.js, viem, Event-Driven Systems |
 | Frontend | React, Next.js, Vite, ethers.js |
-| Agent Orchestration | Workflow Engine, Claude Code, Codex CLI, Git Worktrees |
+| AI Systems | Agent Orchestration, MCP, LLM Workflows, Context Management, Claude Code, Codex CLI |
 | Tooling | Linux, Git, Docker, CI/CD |
 
 ---
