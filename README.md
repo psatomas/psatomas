@@ -176,6 +176,18 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 
 ---
 
+## Education & Technical Training
+
+**Postgraduate Specialization in Blockchain Development**  
+Unyleya · 2026–Present  
+360 hours · In Progress
+
+**Web3 Technology Residency — TIC em Trilhas**  
+Instituto iRede · 2026–Present  
+120 hours of technical training, followed by applied engineering in smart contracts, blockchain infrastructure, and collaborative Web3 development.
+
+---
+
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
