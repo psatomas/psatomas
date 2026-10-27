@@ -182,7 +182,7 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 Unyleya · 2026–Present  
 360 hours · In Progress
 
-**Web3 Technology Residency — TIC em Trilhas**  
+**Web3 Engineering Residency**  
 Instituto iRede · 2026–Present  
 120 hours of technical training, followed by applied engineering in smart contracts, blockchain infrastructure, and collaborative Web3 development.
 
