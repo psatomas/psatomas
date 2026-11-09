@@ -99,6 +99,42 @@ Competing execution modules are simulated and scored through a deterministic `Sc
 ---
 
 <details>
+<summary><b>InterstellaQ</b> — Non-Custodial Payment Infrastructure on Stellar</summary>
+
+<br/>
+
+Non-custodial merchant payment infrastructure developed during the **BAF Código Cordillera 2026 Hackathon**.
+
+InterstellaQ enables merchants to register Stellar accounts through on-chain proof of control, generate fixed-amount XLM invoices, and accept wallet-authorized payments through QR codes and shareable URLs.
+
+The application verifies settlement against Stellar Horizon, automatically reconciles invoice status, and provides publicly verifiable transaction evidence without requiring custodial infrastructure or a dedicated backend.
+
+### Architecture
+
+- On-chain merchant registration with cryptographic proof of account control
+- Fixed-amount XLM invoices with unique memo references and expiration
+- QR-based payment requests and portable invoice URLs
+- Non-custodial wallet integration through Stellar Wallets Kit and Freighter
+- Settlement verification against transaction status, recipient, memo, exact amount, and expiration
+- Automatic Horizon monitoring and merchant dashboard reconciliation
+- Client-side invoice management without a dedicated backend
+- Public transaction evidence through Stellar Testnet explorers
+
+### Validation
+
+Successfully demonstrated an end-to-end 1 XLM payment on Stellar Testnet using Freighter, including wallet authorization, on-chain settlement, Horizon verification, and automatic dashboard reconciliation.
+
+**Stack**
+
+`Stellar` • `TypeScript` • `React` • `Vite` • `Stellar Wallets Kit` • `Horizon` • `Freighter`
+
+[Live Demo](https://interstellaq-app.vercel.app/) · [Repository](https://github.com/interstellaq/interstellaq) · [Video Pitch](https://youtu.be/vu6sxeFCil8)
+
+</details>
+
+---
+
+<details>
 <summary><b>Provenance Registry</b> — On-Chain Audit Provenance Layer</summary>
 
 <br/>
