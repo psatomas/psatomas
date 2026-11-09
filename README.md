@@ -16,13 +16,11 @@ Protocol Architecture • Distributed Systems • On-Chain Systems • Autonomou
 
 ## About
 
-I build EVM protocols and supporting infrastructure across execution, state, governance, indexing, SDKs, and application-facing services.
+I engineer blockchain protocols and distributed systems, specializing in EVM architecture, smart contracts, execution mechanisms, and supporting infrastructure.
 
-I design around protocol guarantees: which state must be canonical, which data can be derived, how execution is constrained and verified, and where trust boundaries exist between on-chain and off-chain components.
+My work spans protocol design, governance, transaction lifecycles, indexing, SDKs, and off-chain services, with an emphasis on deterministic execution, state consistency, security boundaries, and verifiable behavior.
 
-I treat protocol engineering as systems engineering, emphasizing deterministic behavior, explicit state transitions, modular boundaries, observability, and security at the architectural level.
-
-I am extending this systems-oriented approach into AI engineering, focusing on agent orchestration, context management, tool integration, stateful workflows, and reliable execution boundaries.
+I integrate blockchain and AI systems through agent orchestration, stateful workflows, tool integration, and controlled execution, building infrastructure for reliable autonomous economic systems.
 
 ---
 
