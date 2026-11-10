@@ -197,16 +197,19 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 </details>
 
 ---
-
 ## Engineering Toolkit
 
-| Domain | Technologies |
-|---------|--------------|
-| Smart Contracts | Solidity, Foundry, Hardhat, OpenZeppelin |
-| Blockchain Infrastructure | TypeScript, Node.js, viem, Event-Driven Systems |
-| Frontend | React, Next.js, Vite, ethers.js |
-| AI Systems | Agent Orchestration, MCP, LLM Workflows, Context Management, Claude Code, Codex CLI |
-| Tooling | Linux, Git, Docker, CI/CD |
+| Domain | Technologies & Capabilities |
+|--------|-----------------------------|
+| Programming Languages | Solidity, TypeScript, JavaScript, Python, Rust |
+| Blockchain Ecosystems | Ethereum, EVM, Stellar |
+| Smart Contracts | Foundry, Hardhat, OpenZeppelin |
+| Blockchain Infrastructure | Node.js, viem, Stellar JavaScript SDK, Horizon API, Event-Driven Indexing |
+| Payment Infrastructure | Non-Custodial Payments, Transaction Verification, Settlement Reconciliation |
+| Frontend | React, Next.js, Vite, ethers.js, wagmi |
+| AI Systems | Agent Orchestration, Stateful Workflows, MCP, LLM Tool Integration |
+| Testing & Security | Unit Testing, Integration Testing, Fuzz Testing, Protocol Invariants |
+| Development Tooling | Linux, Git, Docker, CI/CD, Claude Code, Codex CLI |
 
 ---
 
