@@ -28,11 +28,12 @@ I integrate blockchain and AI systems through agent orchestration, stateful work
 
 ### Protocol Engineering
 
-- Protocol architecture and state-transition systems
-- Deterministic execution and execution mechanisms
+- Protocol architecture and state-transition design
+- Deterministic execution mechanisms and protocol invariants
 - Canonical state, derived state, and trust boundaries
-- Financial and governance mechanisms
-- Modular and composable protocol architecture
+- Financial and governance mechanism design
+- Authorization models, failure semantics, and security boundaries
+- Modular protocol architecture and execution strategies
 
 ---
 
