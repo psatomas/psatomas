@@ -71,32 +71,37 @@ I also work with AI engineering technologies and concepts, including Python, LLM
 ## Projects
 
 <details open>
-<summary><b>ExeKPro</b> — Execution-Selection Protocol for Web3 Intents</summary>
+<summary><b>ExeKPro</b> — EVM Execution Infrastructure for DeFi</summary>
 
 <br/>
 
-Execution-selection protocol for Web3 intents with modular strategies and deterministic scoring.
+ExeKPro is an evolving execution infrastructure project focused on modular, configurable, and non-custodial transaction execution in EVM-based DeFi applications.
 
-Competing execution modules are simulated and scored through a deterministic `ScorePolicy`, with the highest-scoring module executing on-chain through the protocol's `ExecutionEngine` kernel.
+The project combines an on-chain execution kernel with off-chain services for execution selection, monitoring, and application integration.
 
-### Architecture
+Its current implementation demonstrates deterministic selection among competing execution modules. The broader direction is toward customer-configurable execution infrastructure, with dedicated deployments, APIs, SDKs, and managed services.
 
-- Intent layer for standardized, owner-registered intent types
-- On-chain `ExecutionEngine` kernel for scoring and executing candidate modules
-- Modular execution modules competing for selection
-- Deterministic scoring via `ScorePolicy`
-- Observability and indexing layer for execution performance
-- SDK layer for developer integration
-- Separation between canonical protocol state and supporting execution/application services
+### Engineering Components
+
+- Solidity-based execution engine and module registry
+- Modular execution strategies with deterministic scoring
+- Configurable execution policies and governance boundaries
+- SDK and API integration for blockchain applications
+- Event indexing and execution monitoring
+- Separation between on-chain execution and off-chain infrastructure
+- Non-custodial architecture with customer-controlled transactions
+
+### Product Direction
+
+B2B execution infrastructure for DeFi applications, combining an on-chain execution kernel with managed off-chain services through ExeKPro Cloud.
 
 **Stack**
 
-`Solidity` • `Foundry` • `TypeScript` • `Node.js` • `viem` • `wagmi` • `Next.js` • `Cloudflare Workers`
+`Solidity` • `Foundry` • `TypeScript` • `Node.js` • `viem` • `wagmi` • `Next.js`
 
-[Protocol Console](https://exekpro.com) · [Repository](https://github.com/psatomas/ExeKPro)
+[Website](https://exekpro.com) · [Repository](https://github.com/psatomas/ExeKPro)
 
 </details>
-
 ---
 
 <details>
