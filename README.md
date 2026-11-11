@@ -16,24 +16,26 @@ Smart Contracts • Blockchain Infrastructure • Distributed Systems • AI Eng
 
 ## About
 
-I engineer blockchain protocols and distributed systems, specializing in EVM architecture, smart contracts, execution mechanisms, and supporting infrastructure.
+I build blockchain systems, smart contracts, and supporting infrastructure, working primarily with Solidity, TypeScript, and the EVM ecosystem.
 
-My work spans protocol design, governance, transaction lifecycles, indexing, SDKs, and off-chain services, with an emphasis on deterministic execution, state consistency, security boundaries, and verifiable behavior.
+My engineering work spans smart contract development, governance and staking mechanisms, blockchain payments, backend services, wallet integrations, and application architecture. I focus on clear system boundaries, predictable behavior, and reliable interactions between on-chain and off-chain components.
 
-I integrate blockchain and AI systems through agent orchestration, stateful workflows, tool integration, and controlled execution, building infrastructure for reliable autonomous economic systems.
+Protocol engineering is a central focus of my work, particularly state transitions, execution mechanisms, modular architectures, and security boundaries.
+
+I also work with AI engineering technologies and concepts, including Python, LLM applications, agent orchestration, and stateful workflows, with an interest in how AI systems can interact with blockchain infrastructure.
 
 ---
 
 ## Technical Focus
 
-### Protocol Engineering
+### Protocol & Systems Engineering
 
 - Protocol architecture and state-transition design
-- Deterministic execution mechanisms and protocol invariants
-- Canonical state, derived state, and trust boundaries
-- Financial and governance mechanism design
-- Authorization models, failure semantics, and security boundaries
-- Modular protocol architecture and execution strategies
+- Protocol invariants and authorization boundaries
+- On-chain and off-chain system interactions
+- Event-driven indexing and state synchronization
+- Governance and consensus mechanisms
+- System reliability and failure handling
 
 ---
 
