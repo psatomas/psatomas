@@ -205,19 +205,20 @@ DAO-governed staking and governance protocol with historical ERC20Votes voting p
 </details>
 
 ---
+
 ## Engineering Toolkit
 
 | Domain | Technologies & Capabilities |
 |--------|-----------------------------|
 | Programming Languages | Solidity, TypeScript, JavaScript, Python, Rust |
-| Blockchain Ecosystems | Ethereum, EVM, Stellar |
+| Blockchain Ecosystems | EVM, Stellar |
 | Smart Contracts | Foundry, Hardhat, OpenZeppelin |
-| Blockchain Infrastructure | Node.js, viem, Stellar JavaScript SDK, Horizon API, Event-Driven Indexing |
-| Payment Infrastructure | Non-Custodial Payments, Transaction Verification, Settlement Reconciliation |
-| Frontend | React, Next.js, Vite, ethers.js, wagmi |
-| AI Systems | Agent Orchestration, Stateful Workflows, MCP, LLM Tool Integration |
-| Testing & Security | Unit Testing, Integration Testing, Fuzz Testing, Protocol Invariants |
-| Development Tooling | Linux, Git, Docker, CI/CD, Claude Code, Codex CLI |
+| Blockchain Integration | viem, ethers.js, wagmi, Stellar SDK, Horizon API |
+| Backend & Infrastructure | Node.js, NestJS, Event-Driven Indexing, APIs |
+| Frontend | React, Next.js, Vite, Tailwind CSS |
+| AI Engineering | Python, LangGraph, LLM Integration, Agent Workflows |
+| Testing & Security | Jest, Vitest, Playwright, Fuzz Testing, Access Control |
+| Development Tooling | Linux, Git, Docker, GitHub Actions |
 
 ---
 
