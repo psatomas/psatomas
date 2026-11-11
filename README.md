@@ -1,11 +1,11 @@
 <h1 align="center">Tomás Araújo</h1>
 
 <h3 align="center">
-Protocol Engineer · EVM & AI Systems
+Protocol Engineer · Blockchain & AI Systems
 </h3>
 
 <p align="center">
-Protocol Architecture • Distributed Systems • On-Chain Systems • Autonomous Economic Systems
+Smart Contracts • Blockchain Infrastructure • Distributed Systems • AI Engineering
 </p>
 
 <p align="center">
