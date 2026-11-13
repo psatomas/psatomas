@@ -34,8 +34,8 @@ I also work with AI engineering technologies and concepts, including Python, LLM
 - Protocol invariants and authorization boundaries
 - On-chain and off-chain system interactions
 - Event-driven indexing and state synchronization
-- Governance and consensus mechanisms
-- System reliability and failure handling
+- Governance mechanisms and execution policies
+- Failure handling and transaction lifecycle management
 
 ---
 
@@ -63,7 +63,7 @@ I also work with AI engineering technologies and concepts, including Python, LLM
 - Agent orchestration and stateful workflows
 - Context management and tool integration
 - LLM application architecture
-- MCP-based tool interfaces
+- LangGraph-based workflow design
 - Workflow design and execution control
 
 ---
