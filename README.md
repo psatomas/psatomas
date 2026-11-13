@@ -85,15 +85,13 @@ Its current implementation demonstrates deterministic selection among competing 
 
 - Solidity-based execution engine and module registry
 - Modular execution strategies with deterministic scoring
-- Configurable execution policies and governance boundaries
 - SDK and API integration for blockchain applications
 - Event indexing and execution monitoring
 - Separation between on-chain execution and off-chain infrastructure
-- Non-custodial architecture with customer-controlled transactions
 
 ### Product Direction
 
-B2B execution infrastructure for DeFi applications, combining an on-chain execution kernel with managed off-chain services through ExeKPro Cloud.
+ExeKPro is evolving toward B2B execution infrastructure for DeFi applications, with customer-configurable execution policies, dedicated deployments, non-custodial transaction flows, and managed off-chain services through ExeKPro Cloud.
 
 **Stack**
 
